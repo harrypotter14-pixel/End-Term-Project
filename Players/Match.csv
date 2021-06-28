@@ -1,0 +1,1952 @@
+Match_id,Team1,Team2,Date,Toss_winner,Toss_decision,Player_of_match,Winner_runs,Winner_wickets
+1000887,Australia,Pakistan,13-01-2017,Australia,bat,MS Wade,92,
+1000889,Australia,Pakistan,15-01-2017,Australia,bat,Mohammad Hafeez,,6
+1000891,Australia,Pakistan,19-01-2017,Australia,field,SPD Smith,,7
+1000893,Australia,Pakistan,22-01-2017,Australia,bat,DA Warner,86,
+1000895,Australia,Pakistan,26-01-2017,Australia,bat,DA Warner,57,
+1001371,Australia,New Zealand,04-12-2016,Australia,bat,SPD Smith,68,
+1001373,Australia,New Zealand,06-12-2016,New Zealand,field,DA Warner,116,
+1001375,Australia,New Zealand,09-12-2016,Australia,bat,DA Warner,117,
+1003271,Scotland,Afghanistan,04-07-2016,Scotland,field,,,
+1003273,Scotland,Afghanistan,06-07-2016,Afghanistan,bat,,78,
+1004253,Papua New Guinea,Namibia,21-10-2016,Namibia,bat,,,5
+1004255,Papua New Guinea,Namibia,23-10-2016,Namibia,bat,,,6
+1004261,Netherlands,Nepal,13-08-2016,Netherlands,field,,,7
+1004269,Kenya,Hong Kong,20-11-2016,Kenya,field,Babar Hayat,39,
+1004283,Scotland,Hong Kong,08-09-2016,Hong Kong,field,,,
+1004285,Scotland,Hong Kong,10-09-2016,Scotland,bat,,53,
+1007649,Zimbabwe,India,11-06-2016,India,field,KL Rahul,,9
+1007651,Zimbabwe,India,13-06-2016,India,field,YS Chahal,,8
+1007653,Zimbabwe,India,15-06-2016,Zimbabwe,bat,KL Rahul,,10
+1014845,Papua New Guinea,Kenya,28-05-2016,Kenya,bat,,,6
+1014847,Papua New Guinea,Kenya,30-05-2016,Papua New Guinea,bat,,21,
+1019973,New Zealand,Bangladesh,26-12-2016,New Zealand,bat,TWM Latham,77,
+1019975,New Zealand,Bangladesh,29-12-2016,Bangladesh,field,NT Broom,67,
+1019977,New Zealand,Bangladesh,31-12-2016,Bangladesh,bat,KS Williamson,,8
+1020013,New Zealand,Australia,30-01-2017,Australia,field,MP Stoinis,6,
+1020031,New Zealand,South Africa,19-02-2017,South Africa,field,Q de Kock,,4
+1020033,New Zealand,South Africa,22-02-2017,South Africa,field,LRPL Taylor,6,
+1020035,New Zealand,South Africa,25-02-2017,South Africa,bat,AB de Villiers,159,
+1020037,New Zealand,South Africa,01-03-2017,South Africa,bat,MJ Guptill,,7
+1020039,New Zealand,South Africa,04-03-2017,South Africa,field,K Rabada,,6
+1022347,England,Bangladesh,01-06-2017,England,field,JE Root,,8
+1022349,Australia,New Zealand,02-06-2017,New Zealand,bat,,,
+1022351,South Africa,Sri Lanka,03-06-2017,Sri Lanka,field,Imran Tahir,96,
+1022353,India,Pakistan,04-06-2017,Pakistan,field,Yuvraj Singh,124,
+1022355,Australia,Bangladesh,05-06-2017,Bangladesh,bat,,,
+1022357,England,New Zealand,06-06-2017,New Zealand,field,JT Ball,87,
+1022359,Pakistan,South Africa,07-06-2017,South Africa,bat,Hasan Ali,19,
+1022361,India,Sri Lanka,08-06-2017,Sri Lanka,field,BKG Mendis,,7
+1022363,Bangladesh,New Zealand,09-06-2017,New Zealand,bat,Shakib Al Hasan,,5
+1022365,England,Australia,10-06-2017,England,field,BA Stokes,40,
+1022367,India,South Africa,11-06-2017,India,field,JJ Bumrah,,8
+1022369,Pakistan,Sri Lanka,12-06-2017,Pakistan,field,Sarfraz Ahmed,,3
+1022371,England,Pakistan,14-06-2017,Pakistan,field,Hasan Ali,,8
+1022375,India,Pakistan,18-06-2017,India,field,Fakhar Zaman,180,
+1023583,Adelaide Strikers,Brisbane Heat,21-12-2016,Adelaide Strikers,field,BB McCullum,10,
+1023589,Perth Scorchers,Adelaide Strikers,23-12-2016,Adelaide Strikers,field,AJ Turner,48,
+1023595,Sydney Thunder,Brisbane Heat,28-12-2016,Brisbane Heat,field,CA Lynn,,3
+1023599,Brisbane Heat,Hobart Hurricanes,30-12-2016,Brisbane Heat,field,CA Lynn,,7
+1023611,Sydney Thunder,Melbourne Stars,04-01-2017,Sydney Thunder,field,EJG Morgan,,6
+1023629,Sydney Sixers,Sydney Thunder,14-01-2017,Sydney Sixers,bat,Fawad Ahmed,,8
+1023635,Melbourne Stars,Brisbane Heat,17-01-2017,Melbourne Stars,bat,MJ Swepson,,7
+1023639,Brisbane Heat,Melbourne Renegades,20-01-2017,Brisbane Heat,field,AJ Finch,1,
+1023649,Perth Scorchers,Sydney Sixers,28-01-2017,Perth Scorchers,field,JA Richardson,,9
+1026847,Hong Kong,Papua New Guinea,04-11-2016,Hong Kong,bat,Babar Hayat,106,
+1026849,Hong Kong,Papua New Guinea,06-11-2016,Papua New Guinea,bat,CA Soper,14,
+1026851,Hong Kong,Papua New Guinea,08-11-2016,Papua New Guinea,bat,Anshuman Rath,,7
+1027315,West Indies,England,03-03-2017,West Indies,field,EJG Morgan,45,
+1027317,West Indies,England,05-03-2017,West Indies,bat,JE Root,,4
+1027319,West Indies,England,09-03-2017,West Indies,field,AD Hales,186,
+1029001,England,Ireland,05-05-2017,Ireland,bat,AU Rashid,,7
+1029003,England,Ireland,07-05-2017,Ireland,field,JE Root,85,
+1029819,Bangladesh,England,07-10-2016,England,bat,JT Ball,21,
+1029821,Bangladesh,England,09-10-2016,England,field,Mashrafe Mortaza,34,
+1029823,Bangladesh,England,12-10-2016,England,field,AU Rashid,,4
+1030219,India,New Zealand,16-10-2016,India,field,HH Pandya,,6
+1030221,India,New Zealand,20-10-2016,India,field,KS Williamson,6,
+1030223,India,New Zealand,23-10-2016,India,field,V Kohli,,7
+1030225,India,New Zealand,26-10-2016,New Zealand,bat,MJ Guptill,19,
+1030227,India,New Zealand,29-10-2016,India,bat,A Mishra,190,
+1031425,England,South Africa,24-05-2017,South Africa,field,MM Ali,72,
+1031427,England,South Africa,27-05-2017,South Africa,field,BA Stokes,2,
+1031429,England,South Africa,29-05-2017,South Africa,field,K Rabada,,7
+1033361,Ireland,Bangladesh,12-05-2017,Ireland,field,,,
+1033367,Ireland,Bangladesh,19-05-2017,Bangladesh,field,Mustafizur Rahman,,8
+1033371,Bangladesh,New Zealand,24-05-2017,Bangladesh,field,Mushfiqur Rahim,,5
+1033707,Netherlands,Scotland,15-07-2016,Netherlands,bat,,,8
+1034819,India,England,15-01-2017,India,field,KM Jadhav,,3
+1034821,India,England,19-01-2017,England,field,Yuvraj Singh,15,
+1034823,India,England,22-01-2017,India,field,BA Stokes,5,
+1040491,Afghanistan,Ireland,15-03-2017,Afghanistan,bat,WTS Porterfield,30,
+1040493,Afghanistan,Ireland,17-03-2017,Afghanistan,bat,PR Stirling,34,
+1040495,Afghanistan,Ireland,19-03-2017,Afghanistan,bat,PR Stirling,,6
+1040497,Afghanistan,Ireland,22-03-2017,Afghanistan,bat,KJ O'Brien,,3
+1040499,Afghanistan,Ireland,24-03-2017,Ireland,bat,Rahmat Shah,,7
+1041523,Bangladesh,South Africa,18-01-2017,South Africa,bat,M du Preez,94,
+1041525,Bangladesh,South Africa,20-01-2017,Bangladesh,bat,O Kirsten,,8
+1043953,Australia,South Africa,18-11-2016,South Africa,bat,EA Perry,,2
+1043955,Australia,South Africa,20-11-2016,Australia,bat,MM Lanning,66,
+1043961,Australia,South Africa,29-11-2016,South Africa,field,EA Perry,43,
+1044203,Sri Lanka,Australia,18-09-2016,Sri Lanka,bat,,,4
+1044209,Sri Lanka,Australia,25-09-2016,Australia,bat,NE Bolton,137,
+1049617,Malaysia,Singapore,26-08-2016,Singapore,bat,,6,
+1049633,Malaysia,Singapore,28-08-2016,Malaysia,bat,,16,
+1050223,Pakistan,West Indies,30-09-2016,West Indies,field,Babar Azam,111,
+1050225,Pakistan,West Indies,02-10-2016,Pakistan,bat,Babar Azam,59,
+1050227,Pakistan,West Indies,05-10-2016,Pakistan,bat,Babar Azam,136,
+1050607,New Zealand,Pakistan,11-11-2016,New Zealand,bat,,60,
+1050609,New Zealand,Pakistan,13-11-2016,Pakistan,bat,,,8
+1050611,New Zealand,Pakistan,17-11-2016,New Zealand,field,,,7
+1050615,New Zealand,Pakistan,21-11-2016,New Zealand,bat,,14,
+1050623,New Zealand,Australia,26-02-2017,Australia,bat,AE Satterthwaite,,5
+1050625,New Zealand,Australia,02-03-2017,Australia,field,AJ Blackwell,,4
+1050627,New Zealand,Australia,05-03-2017,Australia,field,MM Lanning,,5
+1051297,Bangladesh,Afghanistan,25-09-2016,Bangladesh,bat,Shakib Al Hasan,7,
+1051299,Bangladesh,Afghanistan,28-09-2016,Afghanistan,field,Mohammad Nabi,,2
+1051301,Bangladesh,Afghanistan,01-10-2016,Bangladesh,bat,Tamim Iqbal,141,
+1059195,Sri Lanka,England,15-11-2016,Sri Lanka,bat,,,5
+1059710,Zimbabwe,Sri Lanka,14-11-2016,Sri Lanka,field,DM de Silva,,8
+1059711,Sri Lanka,West Indies,16-11-2016,Sri Lanka,field,JO Holder,62,
+1059712,Zimbabwe,West Indies,19-11-2016,Zimbabwe,bat,SD Hope,,
+1059713,Zimbabwe,Sri Lanka,21-11-2016,Zimbabwe,bat,,,
+1059714,Sri Lanka,West Indies,23-11-2016,West Indies,field,BKG Mendis,1,
+1059715,Zimbabwe,West Indies,25-11-2016,Zimbabwe,bat,TS Chisoro,5,
+1059716,Zimbabwe,Sri Lanka,27-11-2016,Zimbabwe,bat,BKG Mendis,,6
+1062498,Denmark,Italy,29-10-2016,Italy,field,CS Sandri,114,
+1062500,Bermuda,Oman,30-10-2016,Oman,field,Jatinder Singh,,4
+1062501,Denmark,Jersey,30-10-2016,Denmark,field,SA Ahmad,,6
+1062502,United States of America,Italy,30-10-2016,Italy,bat,TP Allen,,1
+1062503,Italy,Jersey,01-11-2016,Jersey,field,NAT Watkins,,3
+1062504,United States of America,Oman,01-11-2016,United States of America,field,Steven Ryan Taylor,,8
+1062506,United States of America,Denmark,02-11-2016,Denmark,field,Zameer Khan,,4
+1062507,Bermuda,Jersey,02-11-2016,Bermuda,bat,KS Leverock,85,
+1062508,Italy,Oman,02-11-2016,Italy,bat,Zeeshan Siddiqui,,5
+1062509,Denmark,Oman,04-11-2016,Denmark,field,Khawar Ali,43,
+1062510,Bermuda,Italy,04-11-2016,Bermuda,field,Charanjeet Singh,25,
+1062511,United States of America,Jersey,04-11-2016,Jersey,bat,NAT Watkins,1,
+1062512,Bermuda,Denmark,05-11-2016,Denmark,bat,T Bharaj,44,
+1062514,United States of America,Oman,05-11-2016,United States of America,bat,Jasdeep Singh,13,
+1062580,Sri Lanka,England,09-11-2016,Sri Lanka,bat,,,8
+1063553,Japan,China,03-11-2016,China,bat,Zhang Yu Fei,,5
+1068731,Hong Kong,Netherlands,16-02-2017,Netherlands,bat,MJG Rippon,5,
+1068732,Hong Kong,Netherlands,18-02-2017,Netherlands,bat,MJG Rippon,13,
+1068737,United Arab Emirates,Papua New Guinea,02-04-2017,Papua New Guinea,bat,,26,
+1068740,Scotland,Namibia,13-06-2017,Namibia,bat,,50,
+1073401,Sri Lanka,India,07-02-2017,India,bat,DP Vaidya,114,
+1073402,Ireland,Zimbabwe,07-02-2017,Zimbabwe,field,KJ Garth,119,
+1073403,Pakistan,South Africa,07-02-2017,South Africa,bat,CL Tryon,63,
+1073404,Bangladesh,Papua New Guinea,07-02-2017,Bangladesh,bat,,118,
+1073405,Sri Lanka,Ireland,08-02-2017,Sri Lanka,bat,SIP Fernando,146,
+1073406,India,Thailand,08-02-2017,Thailand,bat,M Joshi,,9
+1073407,Scotland,South Africa,08-02-2017,Scotland,bat,A Khaka,,6
+1073408,Bangladesh,Pakistan,08-02-2017,Pakistan,bat,Ghulam Fatima,67,
+1073410,Bangladesh,Scotland,10-02-2017,Scotland,bat,Rumana Ahmed,,7
+1073411,India,Ireland,10-02-2017,India,bat,MDT Kamini,125,
+1073412,Thailand,Zimbabwe,10-02-2017,Thailand,field,P Marange,36,
+1073413,Bangladesh,South Africa,11-02-2017,Bangladesh,bat,S Ismail,,6
+1073415,Sri Lanka,Zimbabwe,11-02-2017,Zimbabwe,bat,I Ranaweera,,8
+1073416,Ireland,Thailand,11-02-2017,Ireland,bat,KJ Garth,46,
+1073417,India,Zimbabwe,13-02-2017,Zimbabwe,bat,Poonam Yadav,,9
+1073418,Sri Lanka,Thailand,13-02-2017,Thailand,bat,PRCS Kumarihami,,7
+1073419,Papua New Guinea,South Africa,13-02-2017,Papua New Guinea,bat,S Ismail,,10
+1073420,Pakistan,Scotland,13-02-2017,Scotland,bat,Sana Mir,,6
+1073421,India,South Africa,15-02-2017,South Africa,field,M Raj,49,
+1073422,Sri Lanka,Pakistan,15-02-2017,Sri Lanka,field,LE Kaushalya,,5
+1073423,Bangladesh,Ireland,15-02-2017,Bangladesh,field,Jahanara Alam,,7
+1073424,Sri Lanka,South Africa,17-02-2017,Sri Lanka,bat,S Luus,,9
+1073425,Bangladesh,India,17-02-2017,India,field,MR Meshram,,9
+1073426,Ireland,Pakistan,17-02-2017,Pakistan,bat,Javeria Khan,86,
+1073427,India,Pakistan,19-02-2017,India,field,E Bisht,,7
+1073429,Ireland,South Africa,19-02-2017,Ireland,bat,,36,
+1073430,India,South Africa,21-02-2017,South Africa,bat,DB Sharma,,1
+1077949,West Indies,Pakistan,07-04-2017,West Indies,field,JN Mohammed,,4
+1077950,West Indies,Pakistan,09-04-2017,West Indies,field,Babar Azam,74,
+1077951,West Indies,Pakistan,11-04-2017,West Indies,bat,Shoaib Malik,,6
+1078659,Hong Kong,Scotland,22-01-2017,Hong Kong,field,Babar Hayat,,7
+1078660,United Arab Emirates,Scotland,24-01-2017,Scotland,bat,Adnan Mufti,,4
+1078661,United Arab Emirates,Hong Kong,26-01-2017,United Arab Emirates,field,Imran Haider,,6
+1079246,Zimbabwe,Afghanistan,16-02-2017,Afghanistan,bat,Asghar Stanikzai,12,
+1079247,Zimbabwe,Afghanistan,19-02-2017,Afghanistan,bat,Rashid Khan,54,
+1079248,Zimbabwe,Afghanistan,21-02-2017,Zimbabwe,bat,SC Williams,3,
+1079249,Zimbabwe,Afghanistan,24-02-2017,Afghanistan,bat,CB Mpofu,,7
+1079250,Zimbabwe,Afghanistan,26-02-2017,Afghanistan,bat,Rahmat Shah,106,
+1080630,United Arab Emirates,Ireland,02-03-2017,United Arab Emirates,field,WTS Porterfield,85,
+1080631,United Arab Emirates,Ireland,04-03-2017,United Arab Emirates,bat,WTS Porterfield,,8
+1082592,Rising Pune Supergiant,Mumbai Indians,06-04-2017,Rising Pune Supergiant,field,SPD Smith,,7
+1082597,Mumbai Indians,Kolkata Knight Riders,09-04-2017,Mumbai Indians,field,N Rana,,4
+1082601,Kolkata Knight Riders,Kings XI Punjab,13-04-2017,Kolkata Knight Riders,field,SP Narine,,8
+1082612,Kings XI Punjab,Mumbai Indians,20-04-2017,Mumbai Indians,field,JC Buttler,,8
+1082620,Rising Pune Supergiant,Kolkata Knight Riders,26-04-2017,Kolkata Knight Riders,field,RV Uthappa,,7
+1082630,Delhi Daredevils,Sunrisers Hyderabad,02-05-2017,Delhi Daredevils,field,Mohammed Shami,,6
+1082632,Delhi Daredevils,Gujarat Lions,04-05-2017,Delhi Daredevils,field,RR Pant,,7
+1082633,Royal Challengers Bangalore,Kings XI Punjab,05-05-2017,Royal Challengers Bangalore,field,Sandeep Sharma,19,
+1082635,Delhi Daredevils,Mumbai Indians,06-05-2017,Delhi Daredevils,field,LMP Simmons,146,
+1082638,Sunrisers Hyderabad,Mumbai Indians,08-05-2017,Mumbai Indians,bat,S Dhawan,,7
+1082641,Mumbai Indians,Kings XI Punjab,11-05-2017,Mumbai Indians,field,WP Saha,7,
+1082644,Kolkata Knight Riders,Mumbai Indians,13-05-2017,Kolkata Knight Riders,field,AT Rayudu,9,
+1082646,Delhi Daredevils,Royal Challengers Bangalore,14-05-2017,Royal Challengers Bangalore,bat,HV Patel,10,
+1082650,Mumbai Indians,Rising Pune Supergiant,21-05-2017,Mumbai Indians,bat,KH Pandya,1,
+1083446,Sri Lanka,Bangladesh,25-03-2017,Sri Lanka,field,Tamim Iqbal,90,
+1083447,Sri Lanka,Bangladesh,28-03-2017,Sri Lanka,bat,,,
+1083448,Sri Lanka,Bangladesh,01-04-2017,Bangladesh,field,NLTC Perera,70,
+1085945,New Zealand,Sri Lanka,24-06-2017,New Zealand,field,HR Huddleston,,9
+1085946,England,India,24-06-2017,England,field,S Mandhana,35,
+1085947,Pakistan,South Africa,25-06-2017,South Africa,field,S Ismail,,3
+1085948,Australia,West Indies,26-06-2017,West Indies,bat,NE Bolton,,8
+1085951,India,West Indies,29-06-2017,India,field,S Mandhana,,7
+1085952,Australia,Sri Lanka,29-06-2017,Australia,field,AC Jayangani,,8
+1085953,England,Sri Lanka,02-07-2017,Sri Lanka,bat,LA Marsh,,7
+1085954,Australia,New Zealand,02-07-2017,New Zealand,bat,EA Perry,,5
+1085955,India,Pakistan,02-07-2017,India,bat,E Bisht,95,
+1085956,South Africa,West Indies,02-07-2017,South Africa,field,M Kapp,,10
+1085957,England,South Africa,05-07-2017,England,bat,SJ Taylor,68,
+1085958,India,Sri Lanka,05-07-2017,India,bat,DB Sharma,16,
+1085959,Australia,Pakistan,05-07-2017,Australia,bat,EJ Villani,159,
+1085960,New Zealand,West Indies,06-07-2017,New Zealand,field,LM Kasperek,,8
+1085961,New Zealand,Pakistan,08-07-2017,Pakistan,bat,HM Rowe,,8
+1085962,India,South Africa,08-07-2017,India,field,D van Niekerk,115,
+1085964,Sri Lanka,West Indies,09-07-2017,Sri Lanka,field,A Mohammed,47,
+1085965,Pakistan,West Indies,11-07-2017,Pakistan,field,DJS Dottin,19,
+1085966,South Africa,Sri Lanka,12-07-2017,Sri Lanka,bat,D van Niekerk,,8
+1085967,Australia,India,12-07-2017,Australia,field,MM Lanning,,8
+1085968,England,New Zealand,12-07-2017,England,bat,NR Sciver,75,
+1085969,Australia,South Africa,15-07-2017,Australia,bat,EA Perry,59,
+1085970,England,West Indies,15-07-2017,West Indies,field,HC Knight,92,
+1085971,India,New Zealand,15-07-2017,New Zealand,field,M Raj,186,
+1085972,Pakistan,Sri Lanka,15-07-2017,Sri Lanka,bat,HHC Gunaratne,15,
+1089136,Nigeria,Tanzania,07-04-2017,Nigeria,field,Jitin Singh,148,
+1089137,Ghana,Sierra Leone,07-04-2017,Sierra Leone,field,DNA Ankrah,113,
+1089138,Botswana,Zambia,07-04-2017,Zambia,field,T Tshose,81,
+1089139,Sierra Leone,Zambia,08-04-2017,Zambia,bat,J Zimba,41,
+1089140,Ghana,Nigeria,08-04-2017,Ghana,field,G Bakiweyem,,4
+1089141,Botswana,Tanzania,08-04-2017,Tanzania,field,KN Mussa,26,
+1089142,Botswana,Ghana,10-04-2017,Ghana,field,S Ateak,,4
+1089143,Tanzania,Zambia,10-04-2017,Tanzania,field,A Dagar,,2
+1089144,Nigeria,Sierra Leone,10-04-2017,Nigeria,bat,OA Olympio,91,
+1089145,Nigeria,Zambia,11-04-2017,Zambia,bat,AS Abioye,,3
+1089146,Botswana,Sierra Leone,11-04-2017,Sierra Leone,bat,K Motlanka,,2
+1089147,Ghana,Tanzania,11-04-2017,Ghana,field,V Ateak,,5
+1089148,Sierra Leone,Tanzania,13-04-2017,Tanzania,bat,KN Mussa,165,
+1089150,Ghana,Zambia,13-04-2017,Zambia,bat,G Bakiweyem,,9
+1089183,United Arab Emirates,Papua New Guinea,04-04-2017,United Arab Emirates,bat,,103,
+1089419,Scotland,Zimbabwe,15-06-2017,Scotland,bat,,26,
+1089420,Scotland,Zimbabwe,17-06-2017,Scotland,bat,,,6
+1089472,Qatar,Kuwait,22-04-2017,Kuwait,field,Iman-ul-Haq,150,
+1089490,Bahrain,Bhutan,01-05-2017,Bhutan,field,Tahir Dar,55,
+1089520,South Africa,Zimbabwe,07-05-2017,Zimbabwe,bat,S Ismail,,8
+1089521,India,Ireland,07-05-2017,India,field,DB Sharma,,10
+1089522,South Africa,India,09-05-2017,India,field,S Pandey,,7
+1089523,Ireland,Zimbabwe,09-05-2017,Zimbabwe,field,M Musonda,,6
+1089524,South Africa,Ireland,11-05-2017,South Africa,bat,L Wolvaardt,178,
+1089525,India,Zimbabwe,11-05-2017,Zimbabwe,bat,RS Gayakwad,,9
+1089526,South Africa,Zimbabwe,15-05-2017,Zimbabwe,bat,S Ismail,,7
+1089528,South Africa,India,17-05-2017,India,field,CL Tryon,8,
+1089529,Ireland,Zimbabwe,17-05-2017,Ireland,bat,T Granger,,5
+1089531,India,Zimbabwe,19-05-2017,Zimbabwe,bat,DB Sharma,,10
+1089533,South Africa,India,21-05-2017,India,field,PG Raut,,8
+1089779,West Indies,Afghanistan,09-06-2017,Afghanistan,bat,Rashid Khan,63,
+1089780,West Indies,Afghanistan,11-06-2017,Afghanistan,bat,SD Hope,,4
+1098206,West Indies,India,23-06-2017,West Indies,field,,,
+1098207,West Indies,India,25-06-2017,West Indies,field,AM Rahane,105,
+1098208,West Indies,India,30-06-2017,West Indies,field,MS Dhoni,93,
+1098209,West Indies,India,02-07-2017,West Indies,bat,JO Holder,11,
+1098210,West Indies,India,06-07-2017,West Indies,bat,V Kohli,,8
+1104478,Sri Lanka,Zimbabwe,30-06-2017,Sri Lanka,bat,SF Mire,,6
+1104479,Sri Lanka,Zimbabwe,02-07-2017,Sri Lanka,field,PADLR Sandakan,,7
+1104480,Sri Lanka,Zimbabwe,06-07-2017,Sri Lanka,field,MD Gunathilaka,,8
+1104481,Sri Lanka,Zimbabwe,08-07-2017,Sri Lanka,bat,CR Ervine,,4
+1104482,Sri Lanka,Zimbabwe,10-07-2017,Zimbabwe,field,Sikandar Raza,,3
+1114859,Adelaide Strikers,Sydney Thunder,22-12-2017,Adelaide Strikers,bat,Rashid Khan,53,
+1114868,Sydney Thunder,Hobart Hurricanes,01-01-2018,Sydney Thunder,field,DJM Short,9,
+1114875,Sydney Thunder,Adelaide Strikers,07-01-2018,Adelaide Strikers,bat,Rashid Khan,25,
+1114877,Perth Scorchers,Melbourne Renegades,08-01-2018,Perth Scorchers,field,AJ Turner,,5
+1114881,Melbourne Renegades,Melbourne Stars,12-01-2018,Melbourne Renegades,field,KP Pietersen,23,
+1114890,Melbourne Renegades,Adelaide Strikers,22-01-2018,Melbourne Renegades,field,CA Ingram,26,
+1114892,Sydney Thunder,Melbourne Renegades,24-01-2018,Sydney Thunder,field,KW Richardson,9,
+1114894,Melbourne Stars,Hobart Hurricanes,27-01-2018,Melbourne Stars,field,KP Pietersen,,3
+1136567,Sunrisers Hyderabad,Mumbai Indians,12-04-2018,Sunrisers Hyderabad,field,Rashid Khan,,1
+1136571,Royal Challengers Bangalore,Rajasthan Royals,15-04-2018,Royal Challengers Bangalore,field,SV Samson,19,
+1136574,Mumbai Indians,Royal Challengers Bangalore,17-04-2018,Royal Challengers Bangalore,field,RG Sharma,46,
+1136575,Rajasthan Royals,Kolkata Knight Riders,18-04-2018,Kolkata Knight Riders,field,N Rana,,7
+1136577,Chennai Super Kings,Rajasthan Royals,20-04-2018,Rajasthan Royals,field,SR Watson,64,
+1136578,Kolkata Knight Riders,Kings XI Punjab,21-04-2018,Kings XI Punjab,field,KL Rahul,,9
+1136581,Rajasthan Royals,Mumbai Indians,22-04-2018,Mumbai Indians,bat,JC Archer,,3
+1136582,Delhi Daredevils,Kings XI Punjab,23-04-2018,Delhi Daredevils,field,AS Rajpoot,4,
+1136584,Royal Challengers Bangalore,Chennai Super Kings,25-04-2018,Chennai Super Kings,field,MS Dhoni,,5
+1136586,Delhi Daredevils,Kolkata Knight Riders,27-04-2018,Kolkata Knight Riders,field,SS Iyer,55,
+1136591,Royal Challengers Bangalore,Mumbai Indians,01-05-2018,Mumbai Indians,field,TG Southee,14,
+1136594,Kings XI Punjab,Mumbai Indians,04-05-2018,Mumbai Indians,field,SA Yadav,,6
+1136597,Mumbai Indians,Kolkata Knight Riders,06-05-2018,Kolkata Knight Riders,field,HH Pandya,13,
+1136610,Mumbai Indians,Kings XI Punjab,16-05-2018,Kings XI Punjab,field,JJ Bumrah,3,
+1136615,Delhi Daredevils,Mumbai Indians,20-05-2018,Delhi Daredevils,bat,A Mishra,11,
+1136617,Sunrisers Hyderabad,Chennai Super Kings,22-05-2018,Chennai Super Kings,field,F du Plessis,,2
+1136618,Kolkata Knight Riders,Rajasthan Royals,23-05-2018,Rajasthan Royals,field,AD Russell,25,
+1136619,Kolkata Knight Riders,Sunrisers Hyderabad,25-05-2018,Kolkata Knight Riders,field,Rashid Khan,14,
+1136620,Chennai Super Kings,Sunrisers Hyderabad,27-05-2018,Chennai Super Kings,field,SR Watson,,8
+1144483,England,South Africa,30-05-2019,South Africa,field,BA Stokes,104,
+1144484,Pakistan,West Indies,31-05-2019,West Indies,field,O Thomas,,7
+1144485,New Zealand,Sri Lanka,01-06-2019,New Zealand,field,MJ Henry,,10
+1144486,Afghanistan,Australia,01-06-2019,Afghanistan,bat,DA Warner,,7
+1144487,Bangladesh,South Africa,02-06-2019,South Africa,field,Shakib Al Hasan,21,
+1144488,England,Pakistan,03-06-2019,England,field,Mohammad Hafeez,14,
+1144489,Afghanistan,Sri Lanka,04-06-2019,Afghanistan,field,N Pradeep,34,
+1144490,India,South Africa,05-06-2019,South Africa,bat,RG Sharma,,6
+1144491,Bangladesh,New Zealand,05-06-2019,New Zealand,field,LRPL Taylor,,2
+1144492,Australia,West Indies,06-06-2019,West Indies,field,NM Coulter-Nile,15,
+1144494,England,Bangladesh,08-06-2019,Bangladesh,field,JJ Roy,106,
+1144495,Afghanistan,New Zealand,08-06-2019,New Zealand,field,JDS Neesham,,7
+1144499,Australia,Pakistan,12-06-2019,Pakistan,field,DA Warner,41,
+1144501,England,West Indies,14-06-2019,England,field,JE Root,,8
+1144502,Australia,Sri Lanka,15-06-2019,Sri Lanka,field,AJ Finch,87,
+1144503,Afghanistan,South Africa,15-06-2019,South Africa,field,Imran Tahir,,9
+1144507,New Zealand,South Africa,19-06-2019,New Zealand,field,KS Williamson,,4
+1144508,Australia,Bangladesh,20-06-2019,Australia,bat,DA Warner,48,
+1144509,England,Sri Lanka,21-06-2019,Sri Lanka,bat,SL Malinga,20,
+1144510,Afghanistan,India,22-06-2019,India,bat,JJ Bumrah,11,
+1144511,New Zealand,West Indies,22-06-2019,West Indies,field,KS Williamson,5,
+1144512,Pakistan,South Africa,23-06-2019,Pakistan,bat,Haris Sohail,49,
+1144513,Afghanistan,Bangladesh,24-06-2019,Afghanistan,field,Shakib Al Hasan,62,
+1144514,England,Australia,25-06-2019,England,field,AJ Finch,64,
+1144516,India,West Indies,27-06-2019,India,bat,V Kohli,125,
+1144517,South Africa,Sri Lanka,28-06-2019,South Africa,field,D Pretorius,,9
+1144518,Afghanistan,Pakistan,29-06-2019,Afghanistan,bat,Imad Wasim,,3
+1144519,Australia,New Zealand,29-06-2019,Australia,bat,AT Carey,86,
+1144520,England,India,30-06-2019,England,bat,JM Bairstow,31,
+1144521,Sri Lanka,West Indies,01-07-2019,West Indies,field,WIA Fernando,23,
+1144523,England,New Zealand,03-07-2019,England,bat,JM Bairstow,119,
+1144524,Afghanistan,West Indies,04-07-2019,West Indies,bat,SD Hope,23,
+1144525,Bangladesh,Pakistan,05-07-2019,Pakistan,bat,Shaheen Shah Afridi,94,
+1144527,Australia,South Africa,06-07-2019,South Africa,bat,F du Plessis,10,
+1144529,Australia,England,11-07-2019,Australia,bat,CR Woakes,,8
+1152518,Sydney Thunder,Sydney Sixers,24-12-2018,Sydney Sixers,field,JC Buttler,21,
+1152531,Perth Scorchers,Brisbane Heat,05-01-2019,Brisbane Heat,field,Mujeeb Ur Rahman,,5
+1152537,Adelaide Strikers,Melbourne Stars,11-01-2019,Melbourne Stars,field,CA Ingram,41,
+1152539,Melbourne Renegades,Brisbane Heat,13-01-2019,Melbourne Renegades,field,M Bryant,101,
+1152540,Perth Scorchers,Sydney Sixers,13-01-2019,Perth Scorchers,field,CT Bancroft,,7
+1152546,Sydney Sixers,Brisbane Heat,20-01-2019,Brisbane Heat,field,JM Vince,79,
+1152550,Sydney Sixers,Hobart Hurricanes,23-01-2019,Sydney Sixers,field,JR Philippe,,9
+1152556,Melbourne Renegades,Sydney Thunder,30-01-2019,Melbourne Renegades,bat,CJ Boyce,27,
+1152558,Brisbane Heat,Perth Scorchers,01-02-2019,Brisbane Heat,field,Mujeeb Ur Rahman,,6
+1152560,Adelaide Strikers,Brisbane Heat,03-02-2019,Brisbane Heat,field,MT Renshaw,,6
+1152562,Hobart Hurricanes,Melbourne Renegades,07-02-2019,Melbourne Renegades,field,MS Wade,16,
+1152563,Brisbane Heat,Melbourne Stars,08-02-2019,Brisbane Heat,field,BCJ Cutting,,10
+1152566,Melbourne Stars,Sydney Sixers,10-02-2019,Sydney Sixers,field,GJ Maxwell,94,
+1152567,Hobart Hurricanes,Melbourne Stars,14-02-2019,Melbourne Stars,field,DJ Worrall,,6
+1161014,Ireland,England,03-05-2019,England,field,BT Foakes,,4
+1168016,England,West Indies,06-06-2019,England,bat,AE Jones,208,
+1168017,England,West Indies,09-06-2019,England,bat,A Shrubsole,121,
+1168018,England,West Indies,13-06-2019,West Indies,field,AE Jones,135,
+1168022,England,Australia,02-07-2019,Australia,field,EA Perry,,2
+1168023,England,Australia,04-07-2019,England,bat,DM Kimmince,,4
+1168517,Ireland,Zimbabwe,01-07-2019,Ireland,field,,,4
+1168518,Ireland,Zimbabwe,04-07-2019,Zimbabwe,field,,5,
+1168519,Ireland,Zimbabwe,07-07-2019,Zimbabwe,bat,,,6
+1175359,Rajasthan Royals,Kings XI Punjab,25-03-2019,Rajasthan Royals,field,CH Gayle,14,
+1175362,Royal Challengers Bangalore,Mumbai Indians,28-03-2019,Royal Challengers Bangalore,field,JJ Bumrah,6,
+1175363,Sunrisers Hyderabad,Rajasthan Royals,29-03-2019,Rajasthan Royals,bat,Rashid Khan,,5
+1175367,Chennai Super Kings,Rajasthan Royals,31-03-2019,Rajasthan Royals,field,MS Dhoni,8,
+1175370,Mumbai Indians,Chennai Super Kings,03-04-2019,Chennai Super Kings,field,HH Pandya,37,
+1175372,Royal Challengers Bangalore,Kolkata Knight Riders,05-04-2019,Kolkata Knight Riders,field,AD Russell,,5
+1178394,Sunrisers Hyderabad,Mumbai Indians,06-04-2019,Sunrisers Hyderabad,field,AS Joseph,40,
+1178402,Mumbai Indians,Rajasthan Royals,13-04-2019,Rajasthan Royals,field,JC Buttler,,4
+1178404,Kolkata Knight Riders,Chennai Super Kings,14-04-2019,Chennai Super Kings,field,Imran Tahir,,5
+1178405,Sunrisers Hyderabad,Delhi Capitals,14-04-2019,Sunrisers Hyderabad,field,KMA Paul,39,
+1178409,Delhi Capitals,Mumbai Indians,18-04-2019,Mumbai Indians,bat,HH Pandya,40,
+1178415,Rajasthan Royals,Delhi Capitals,22-04-2019,Delhi Capitals,field,RR Pant,,6
+1178420,Rajasthan Royals,Sunrisers Hyderabad,27-04-2019,Rajasthan Royals,field,JD Unadkat,,7
+1178423,Sunrisers Hyderabad,Kings XI Punjab,29-04-2019,Kings XI Punjab,field,DA Warner,45,
+1178425,Chennai Super Kings,Delhi Capitals,01-05-2019,Delhi Capitals,field,MS Dhoni,80,
+1178428,Delhi Capitals,Rajasthan Royals,04-05-2019,Rajasthan Royals,bat,A Mishra,,5
+1178429,Royal Challengers Bangalore,Sunrisers Hyderabad,04-05-2019,Royal Challengers Bangalore,field,SO Hetmyer,,4
+1181764,Mumbai Indians,Chennai Super Kings,07-05-2019,Chennai Super Kings,bat,SA Yadav,,6
+1181766,Delhi Capitals,Sunrisers Hyderabad,08-05-2019,Delhi Capitals,field,RR Pant,,2
+1185156,Ireland,West Indies,29-05-2019,Ireland,field,,72,
+225245,England,Pakistan,30-08-2006,Pakistan,field,,,
+225246,England,Pakistan,02-09-2006,Pakistan,field,Shoaib Akhtar,,7
+225247,England,Pakistan,05-09-2006,Pakistan,field,Younis Khan,,2
+225248,England,Pakistan,08-09-2006,Pakistan,bat,IR Bell,,8
+225249,England,Pakistan,10-09-2006,England,field,SI Mahmood,,3
+225252,England,Sri Lanka,24-06-2006,England,bat,DPMD Jayawardene,,8
+225254,England,Sri Lanka,01-07-2006,England,bat,ST Jayasuriya,,8
+226374,Australia,South Africa,09-01-2006,Australia,bat,DR Martyn,95,
+226375,Australia,South Africa,15-01-2006,Australia,bat,SM Pollock,,5
+226376,Australia,South Africa,20-01-2006,Australia,bat,B Lee,59,
+226377,Australia,South Africa,03-02-2006,Australia,bat,MEK Hussey,80,
+226378,Australia,South Africa,05-02-2006,Australia,bat,AC Gilchrist,57,
+226380,Australia,Sri Lanka,22-01-2006,Sri Lanka,bat,ST Jayasuriya,51,
+226381,Australia,Sri Lanka,26-01-2006,Sri Lanka,bat,A Symonds,,5
+226382,Australia,Sri Lanka,29-01-2006,Sri Lanka,bat,AC Gilchrist,,6
+226383,South Africa,Sri Lanka,17-01-2006,South Africa,field,KC Sangakkara,94,
+226384,South Africa,Sri Lanka,24-01-2006,South Africa,bat,HH Dippenaar,9,
+226385,South Africa,Sri Lanka,31-01-2006,Sri Lanka,bat,GC Smith,,5
+226386,South Africa,Sri Lanka,07-02-2006,Sri Lanka,bat,HMCM Bandara,76,
+226391,New Zealand,Sri Lanka,03-01-2006,New Zealand,field,WU Tharanga,,5
+226392,New Zealand,Sri Lanka,06-01-2006,New Zealand,bat,JS Patel,21,
+235831,Pakistan,India,06-02-2006,Pakistan,field,Salman Butt,7,
+236520,Pakistan,India,11-02-2006,Pakistan,bat,IK Pathan,,7
+236595,Australia,Sri Lanka,12-02-2006,Australia,bat,A Symonds,167,
+236809,Pakistan,India,13-02-2006,India,field,MS Dhoni,,5
+236963,Australia,Sri Lanka,14-02-2006,Sri Lanka,bat,AC Gilchrist,,9
+237222,Pakistan,India,16-02-2006,India,field,RP Singh,,5
+237242,New Zealand,West Indies,16-02-2006,New Zealand,field,DR Smith,,
+237568,New Zealand,West Indies,18-02-2006,New Zealand,bat,NJ Astle,81,
+237571,Pakistan,India,19-02-2006,India,field,Yuvraj Singh,,8
+237574,Bangladesh,Sri Lanka,20-02-2006,Bangladesh,bat,PDRL Perera,,5
+238169,Bangladesh,Sri Lanka,22-02-2006,Bangladesh,field,Aftab Ahmed,,4
+238170,Bangladesh,Sri Lanka,25-02-2006,Bangladesh,field,KC Sangakkara,78,
+238173,Bangladesh,Australia,23-04-2006,Bangladesh,bat,AC Gilchrist,,4
+238174,Bangladesh,Australia,26-04-2006,Australia,bat,A Symonds,67,
+238175,Bangladesh,Australia,28-04-2006,Bangladesh,bat,MJ Cosgrove,,9
+238176,New Zealand,West Indies,22-02-2006,New Zealand,field,DL Vettori,,3
+238177,New Zealand,West Indies,25-02-2006,New Zealand,bat,NJ Astle,21,
+238178,New Zealand,West Indies,01-03-2006,West Indies,field,L Vincent,91,
+238179,New Zealand,West Indies,04-03-2006,New Zealand,bat,DR Smith,,3
+238188,India,England,28-03-2006,England,field,Harbhajan Singh,39,
+238189,India,England,31-03-2006,England,bat,SK Raina,,4
+238190,India,England,03-04-2006,India,bat,Yuvraj Singh,49,
+238193,India,England,12-04-2006,India,bat,AJ Strauss,,5
+238194,India,England,15-04-2006,India,field,S Sreesanth,,7
+238196,South Africa,Australia,26-02-2006,Australia,bat,GC Smith,,6
+238197,South Africa,Australia,03-03-2006,South Africa,bat,M Ntini,196,
+238198,South Africa,Australia,05-03-2006,South Africa,field,B Lee,24,
+238199,South Africa,Australia,10-03-2006,South Africa,bat,HH Dippenaar,,1
+238200,South Africa,Australia,12-03-2006,Australia,bat,RT Ponting,,1
+238213,Sri Lanka,Pakistan,17-03-2006,Sri Lanka,field,,,
+238214,Sri Lanka,Pakistan,19-03-2006,Pakistan,field,Abdul Razzaq,,4
+238215,Sri Lanka,Pakistan,22-03-2006,Pakistan,field,Shahid Afridi,,4
+239907,West Indies,Zimbabwe,29-04-2006,West Indies,field,JE Taylor,,5
+239908,West Indies,Zimbabwe,30-04-2006,West Indies,bat,JE Taylor,98,
+239911,West Indies,Zimbabwe,10-05-2006,Zimbabwe,bat,CH Gayle,,10
+239912,West Indies,Zimbabwe,13-05-2006,West Indies,bat,,,
+239913,West Indies,Zimbabwe,14-05-2006,West Indies,bat,RR Sarwan,104,
+239916,West Indies,India,20-05-2006,India,field,RR Sarwan,1,
+239917,West Indies,India,23-05-2006,India,bat,RR Sarwan,,4
+239918,West Indies,India,26-05-2006,West Indies,field,DJ Bravo,,6
+239919,West Indies,India,28-05-2006,India,field,DJ Bravo,19,
+244510,India,Pakistan,18-04-2006,India,bat,Younis Khan,,6
+244511,India,Pakistan,19-04-2006,India,bat,R Dravid,51,
+247457,West Indies,Pakistan,13-03-2007,Pakistan,field,DR Smith,54,
+247458,Australia,Scotland,14-03-2007,Scotland,field,RT Ponting,203,
+247460,Bermuda,Sri Lanka,15-03-2007,Sri Lanka,bat,DPMD Jayawardene,243,
+247461,Ireland,Zimbabwe,15-03-2007,Zimbabwe,field,JP Bray,,
+247462,Netherlands,South Africa,16-03-2007,Netherlands,field,HH Gibbs,221,
+247463,England,New Zealand,16-03-2007,New Zealand,field,SB Styris,,6
+247464,Bangladesh,India,17-03-2007,India,bat,Mashrafe Mortaza,,5
+247465,Ireland,Pakistan,17-03-2007,Ireland,field,NJ O'Brien,,3
+247466,Australia,Netherlands,18-03-2007,Australia,bat,BJ Hodge,229,
+247467,Canada,England,18-03-2007,Canada,field,PD Collingwood,51,
+247468,Bermuda,India,19-03-2007,Bermuda,field,V Sehwag,257,
+247469,West Indies,Zimbabwe,19-03-2007,West Indies,field,SC Williams,,6
+247470,Scotland,South Africa,20-03-2007,South Africa,field,GC Smith,,7
+247471,Kenya,New Zealand,20-03-2007,Kenya,field,LRPL Taylor,148,
+247472,Bangladesh,Sri Lanka,21-03-2007,Bangladesh,field,ST Jayasuriya,198,
+247473,Pakistan,Zimbabwe,21-03-2007,Zimbabwe,field,Imran Nazir,93,
+247474,Netherlands,Scotland,22-03-2007,Netherlands,field,WF Stelling,,8
+247475,Canada,New Zealand,22-03-2007,Canada,field,L Vincent,114,
+247476,India,Sri Lanka,23-03-2007,India,field,M Muralitharan,69,
+247477,West Indies,Ireland,23-03-2007,Ireland,bat,S Chanderpaul,,8
+247478,Australia,South Africa,24-03-2007,South Africa,field,ML Hayden,83,
+247479,England,Kenya,24-03-2007,Kenya,bat,EC Joyce,,7
+247480,Bangladesh,Bermuda,25-03-2007,Bangladesh,field,Mohammad Ashraful,,7
+247482,South Africa,Sri Lanka,28-03-2007,Sri Lanka,bat,SL Malinga,,1
+247483,West Indies,New Zealand,29-03-2007,New Zealand,field,JDP Oram,,7
+247484,England,Ireland,30-03-2007,England,bat,PD Collingwood,48,
+247485,Australia,Bangladesh,31-03-2007,Australia,field,GD McGrath,,10
+247486,West Indies,Sri Lanka,01-04-2007,West Indies,field,ST Jayasuriya,113,
+247487,Bangladesh,New Zealand,02-04-2007,New Zealand,field,SE Bond,,9
+247488,Ireland,South Africa,03-04-2007,South Africa,field,JH Kallis,,7
+247490,Bangladesh,South Africa,07-04-2007,South Africa,field,Mohammad Ashraful,67,
+247491,Australia,England,08-04-2007,England,bat,SW Tait,,7
+247492,Ireland,New Zealand,09-04-2007,New Zealand,bat,PG Fulton,129,
+247493,West Indies,South Africa,10-04-2007,West Indies,field,AB de Villiers,67,
+247494,Bangladesh,England,11-04-2007,England,field,SI Mahmood,,4
+247496,Australia,Ireland,13-04-2007,Australia,field,GD McGrath,,9
+247497,New Zealand,South Africa,14-04-2007,New Zealand,field,CD McMillan,,5
+247498,Bangladesh,Ireland,15-04-2007,Ireland,bat,WTS Porterfield,74,
+247499,Australia,Sri Lanka,16-04-2007,Sri Lanka,bat,NW Bracken,,7
+247500,England,South Africa,17-04-2007,England,bat,AJ Hall,,9
+247501,Ireland,Sri Lanka,18-04-2007,Sri Lanka,field,MF Maharoof,,8
+247502,West Indies,Bangladesh,19-04-2007,Bangladesh,field,RR Sarwan,99,
+247503,Australia,New Zealand,20-04-2007,Australia,bat,ML Hayden,215,
+247504,West Indies,England,21-04-2007,England,field,KP Pietersen,,1
+247506,Australia,South Africa,25-04-2007,South Africa,bat,GD McGrath,,7
+247507,Australia,Sri Lanka,28-04-2007,Australia,bat,AC Gilchrist,53,
+249207,Zimbabwe,Bangladesh,06-08-2006,Zimbabwe,bat,Shahriar Nafees,,8
+249211,South Africa,India,22-11-2006,South Africa,bat,JH Kallis,157,
+249212,South Africa,India,26-11-2006,South Africa,bat,JM Kemp,106,
+249213,South Africa,India,29-11-2006,South Africa,bat,HH Gibbs,80,
+249214,South Africa,India,03-12-2006,South Africa,field,SM Pollock,,9
+249229,Australia,New Zealand,21-01-2007,New Zealand,bat,MJ Clarke,,2
+249230,Australia,New Zealand,28-01-2007,Australia,bat,RT Ponting,8,
+249232,Australia,England,12-01-2007,England,bat,AC Gilchrist,,8
+249233,Australia,England,19-01-2007,England,bat,MEK Hussey,,4
+249234,Australia,England,26-01-2007,England,bat,MG Johnson,,9
+249235,Australia,England,02-02-2007,England,bat,EC Joyce,92,
+249236,England,New Zealand,16-01-2007,New Zealand,bat,A Flintoff,,3
+249239,England,New Zealand,06-02-2007,England,bat,PD Collingwood,14,
+249240,Australia,England,09-02-2007,Australia,bat,PD Collingwood,,4
+249241,Australia,England,11-02-2007,England,bat,,34,
+249378,Kenya,Bangladesh,12-08-2006,Bangladesh,field,Mashrafe Mortaza,,6
+249379,Kenya,Bangladesh,13-08-2006,Kenya,bat,Mashrafe Mortaza,,2
+249380,Kenya,Bangladesh,15-08-2006,Bangladesh,field,Mashrafe Mortaza,,6
+249739,Bangladesh,Sri Lanka,07-10-2006,Bangladesh,field,WU Tharanga,37,
+249740,West Indies,Zimbabwe,08-10-2006,Zimbabwe,bat,CH Gayle,,9
+249741,Sri Lanka,Zimbabwe,10-10-2006,Sri Lanka,bat,WU Tharanga,144,
+249742,Bangladesh,West Indies,11-10-2006,Bangladesh,bat,CH Gayle,,10
+249743,Bangladesh,Zimbabwe,13-10-2006,Zimbabwe,field,Shahriar Nafees,101,
+249744,Sri Lanka,West Indies,14-10-2006,West Indies,bat,MF Maharoof,,9
+249745,India,England,15-10-2006,India,field,MM Patel,,4
+249746,New Zealand,South Africa,16-10-2006,South Africa,field,SP Fleming,87,
+249747,Pakistan,Sri Lanka,17-10-2006,Sri Lanka,bat,Abdul Razzaq,,4
+249748,Australia,West Indies,18-10-2006,West Indies,bat,RS Morton,10,
+249749,New Zealand,Sri Lanka,20-10-2006,New Zealand,bat,M Muralitharan,,7
+249750,Australia,England,21-10-2006,Australia,field,DR Martyn,,6
+249751,South Africa,Sri Lanka,24-10-2006,Sri Lanka,field,SM Pollock,78,
+249752,New Zealand,Pakistan,25-10-2006,Pakistan,field,SP Fleming,51,
+249753,India,West Indies,26-10-2006,West Indies,field,S Chanderpaul,,3
+249755,England,West Indies,28-10-2006,West Indies,bat,CH Gayle,,3
+249756,India,Australia,29-10-2006,India,bat,DR Martyn,,6
+249757,Australia,New Zealand,01-11-2006,New Zealand,field,GD McGrath,34,
+249759,Australia,West Indies,05-11-2006,West Indies,bat,SR Watson,,8
+250668,South Africa,Pakistan,04-02-2007,Pakistan,field,JH Kallis,164,
+250669,South Africa,Pakistan,07-02-2007,Pakistan,bat,Younis Khan,141,
+250670,South Africa,Pakistan,09-02-2007,Pakistan,bat,,,
+250671,South Africa,Pakistan,11-02-2007,South Africa,field,SM Pollock,,10
+250672,South Africa,Pakistan,14-02-2007,Pakistan,bat,SM Pollock,,9
+251489,New Zealand,Sri Lanka,28-12-2006,New Zealand,bat,ST Jayasuriya,,7
+251491,New Zealand,Sri Lanka,02-01-2007,New Zealand,field,MJ Mason,,4
+251492,New Zealand,Sri Lanka,06-01-2007,Sri Lanka,bat,ST Jayasuriya,189,
+251494,New Zealand,Australia,16-02-2007,New Zealand,field,SE Bond,,10
+251495,New Zealand,Australia,18-02-2007,New Zealand,field,LRPL Taylor,,5
+251496,New Zealand,Australia,20-02-2007,Australia,bat,ML Hayden,,1
+255961,South Africa,Zimbabwe,15-09-2006,Zimbabwe,bat,HH Dippenaar,,5
+256607,India,West Indies,14-09-2006,India,bat,SR Tendulkar,29,
+256608,Australia,India,16-09-2006,Australia,bat,,,
+256610,Australia,West Indies,18-09-2006,Australia,bat,MEK Hussey,,3
+256612,India,West Indies,20-09-2006,India,bat,Harbhajan Singh,16,
+256614,Australia,India,22-09-2006,Australia,bat,B Lee,18,
+256615,Australia,West Indies,24-09-2006,Australia,bat,B Lee,127,
+257470,South Africa,Zimbabwe,20-09-2006,South Africa,bat,MV Boucher,171,
+257769,Pakistan,West Indies,07-12-2006,Pakistan,field,Inzamam-ul-Haq,,2
+257770,Pakistan,West Indies,10-12-2006,Pakistan,field,Naved-ul-Hasan,,7
+257771,Pakistan,West Indies,13-12-2006,Pakistan,bat,MN Samuels,,7
+257772,Pakistan,West Indies,16-12-2006,Pakistan,field,Naved-ul-Hasan,,7
+258465,England,West Indies,01-07-2007,West Indies,field,FH Edwards,79,
+258466,England,West Indies,04-07-2007,England,field,S Chanderpaul,61,
+258471,England,India,21-08-2007,India,field,IR Bell,104,
+258472,England,India,24-08-2007,India,bat,R Dravid,9,
+258473,England,India,27-08-2007,India,field,IR Bell,42,
+258474,England,India,30-08-2007,India,bat,SCJ Broad,,3
+258475,England,India,02-09-2007,England,field,SC Ganguly,38,
+258476,England,India,05-09-2007,England,bat,SR Tendulkar,,2
+258477,England,India,08-09-2007,India,bat,KP Pietersen,,7
+259384,Bermuda,Canada,27-11-2006,Canada,field,S Dhaniram,,5
+259389,Bermuda,Netherlands,02-12-2006,Netherlands,bat,S Mukuddem,,6
+259390,Bermuda,Canada,30-11-2006,Canada,field,GR Codrington,,3
+259391,Canada,Netherlands,01-12-2006,Netherlands,field,WF Stelling,,1
+259793,South Africa,Zimbabwe,18-09-2006,Zimbabwe,bat,AJ Hall,,6
+264068,Bangladesh,Zimbabwe,03-12-2006,Bangladesh,field,SC Williams,,6
+264069,Bangladesh,Zimbabwe,05-12-2006,Zimbabwe,field,Abdur Razzak,26,
+264070,Bangladesh,Zimbabwe,08-12-2006,Bangladesh,field,Aftab Ahmed,,8
+264071,Bangladesh,Zimbabwe,09-12-2006,Bangladesh,field,GB Brent,,3
+267386,Bermuda,Canada,02-02-2007,Bermuda,field,JM Davison,56,
+267387,Bermuda,Netherlands,04-02-2007,Netherlands,field,RN ten Doeschate,,8
+267391,Kenya,Canada,05-02-2007,Kenya,bat,TM Odoyo,158,
+267708,India,West Indies,27-01-2007,West Indies,field,MN Samuels,,3
+267709,India,West Indies,31-01-2007,West Indies,field,SR Tendulkar,160,
+267710,India,Sri Lanka,08-02-2007,India,field,,,
+267712,India,Sri Lanka,11-02-2007,India,field,KC Sangakkara,5,
+267713,India,Sri Lanka,17-02-2007,India,field,LPC Silva,,7
+267715,India,Sri Lanka,14-02-2007,Sri Lanka,bat,Z Khan,,5
+275789,Scotland,India,16-08-2007,India,field,G Gambhir,,7
+282688,Bangladesh,India,10-05-2007,Bangladesh,bat,MS Dhoni,,5
+282689,Bangladesh,India,12-05-2007,India,bat,G Gambhir,46,
+287871,Bangladesh,Sri Lanka,18-09-2007,Bangladesh,field,CRD Fernando,64,
+287872,South Africa,New Zealand,19-09-2007,South Africa,field,JM Kemp,,6
+289107,Africa XI,Asia XI,06-06-2007,Asia XI,bat,SM Pollock,34,
+289108,Africa XI,Asia XI,09-06-2007,Asia XI,bat,CRD Fernando,31,
+289110,Africa XI,Asia XI,10-06-2007,Asia XI,bat,MS Dhoni,13,
+291217,Sri Lanka,England,01-10-2007,Sri Lanka,bat,MF Maharoof,119,
+291218,Sri Lanka,England,04-10-2007,England,bat,OA Shah,65,
+291220,Sri Lanka,England,10-10-2007,Sri Lanka,bat,AN Cook,,5
+291221,Sri Lanka,England,13-10-2007,Sri Lanka,bat,CRD Fernando,107,
+291343,Australia,New Zealand,11-12-2007,Australia,bat,A Symonds,54,
+291345,Australia,New Zealand,14-12-2007,New Zealand,bat,RT Ponting,,7
+291347,Australia,New Zealand,20-12-2007,New Zealand,field,RT Ponting,114,
+291359,Australia,India,03-02-2008,India,bat,,,
+291360,India,Sri Lanka,05-02-2008,India,bat,,,
+291361,Australia,Sri Lanka,08-02-2008,Australia,bat,NW Bracken,128,
+291362,Australia,India,10-02-2008,Australia,bat,I Sharma,,5
+291364,Australia,Sri Lanka,15-02-2008,Australia,bat,AC Gilchrist,63,
+291365,Australia,India,17-02-2008,Australia,bat,MJ Clarke,50,
+291366,India,Sri Lanka,19-02-2008,Sri Lanka,bat,KC Sangakkara,,2
+291367,Australia,Sri Lanka,22-02-2008,Sri Lanka,field,MEK Hussey,24,
+291368,Australia,India,24-02-2008,Australia,bat,RT Ponting,18,
+291369,India,Sri Lanka,26-02-2008,India,field,P Kumar,,7
+291370,Australia,Sri Lanka,29-02-2008,Sri Lanka,bat,AC Gilchrist,13,
+291371,Australia,India,02-03-2008,Australia,bat,SR Tendulkar,,6
+291372,Australia,India,04-03-2008,India,bat,P Kumar,9,
+293071,Ireland,India,23-06-2007,India,field,G Gambhir,,9
+293072,Ireland,South Africa,24-06-2007,Ireland,field,AR Cusack,42,
+293076,India,South Africa,26-06-2007,South Africa,field,JH Kallis,,4
+293077,India,South Africa,29-06-2007,India,field,SR Tendulkar,,6
+293078,India,South Africa,01-07-2007,India,field,Yuvraj Singh,,6
+293481,Sri Lanka,Bangladesh,20-07-2007,Bangladesh,field,CRD Fernando,70,
+293482,Sri Lanka,Bangladesh,23-07-2007,Sri Lanka,field,ST Jayasuriya,,5
+293483,Sri Lanka,Bangladesh,25-07-2007,Bangladesh,field,J Mubarak,39,
+295785,Netherlands,Scotland,13-07-2007,Scotland,bat,,,
+295788,Ireland,West Indies,14-07-2007,Ireland,bat,,,
+296685,Kenya,Canada,18-10-2007,Kenya,field,,,4
+296687,Kenya,Canada,20-10-2007,Canada,bat,,,4
+296903,England,New Zealand,13-06-2008,England,field,IR Bell,,9
+296905,England,New Zealand,18-06-2008,New Zealand,field,,,
+296906,England,New Zealand,21-06-2008,England,field,KD Mills,22,
+296907,England,New Zealand,25-06-2008,New Zealand,field,SB Styris,,1
+296908,England,New Zealand,28-06-2008,England,field,SB Styris,51,
+296914,England,South Africa,22-08-2008,England,bat,KP Pietersen,20,
+296915,England,South Africa,26-08-2008,South Africa,bat,SCJ Broad,,10
+296916,England,South Africa,29-08-2008,South Africa,field,SR Patel,126,
+296917,England,South Africa,31-08-2008,England,field,A Flintoff,,7
+297793,India,Australia,29-09-2007,Australia,bat,,,
+297794,India,Australia,02-10-2007,India,field,BJ Haddin,84,
+297795,India,Australia,05-10-2007,Australia,bat,A Symonds,47,
+297796,India,Australia,08-10-2007,India,bat,MS Dhoni,8,
+297797,India,Australia,11-10-2007,India,bat,MG Johnson,,9
+297798,India,Australia,14-10-2007,Australia,bat,A Symonds,18,
+297799,India,Australia,17-10-2007,Australia,bat,M Kartik,,2
+297800,India,Australia,20-10-2007,Australia,bat,G Gambhir,,7
+297801,India,Pakistan,05-11-2007,Pakistan,bat,MS Dhoni,,5
+297802,India,Pakistan,08-11-2007,India,bat,Younis Khan,,4
+297803,India,Pakistan,11-11-2007,Pakistan,field,Yuvraj Singh,46,
+297804,India,Pakistan,15-11-2007,Pakistan,bat,SR Tendulkar,,6
+297805,India,Pakistan,18-11-2007,India,field,Shoaib Malik,31,
+298795,South Africa,New Zealand,23-11-2007,South Africa,field,AB de Villiers,,3
+298796,South Africa,New Zealand,25-11-2007,South Africa,field,AB de Villiers,,2
+298797,South Africa,New Zealand,30-11-2007,South Africa,bat,BB McCullum,,7
+298798,South Africa,New Zealand,02-12-2007,New Zealand,bat,HH Gibbs,,5
+298805,South Africa,West Indies,20-01-2008,South Africa,field,JP Duminy,,6
+298806,South Africa,West Indies,25-01-2008,South Africa,bat,SM Pollock,86,
+298807,South Africa,West Indies,27-01-2008,West Indies,bat,JH Kallis,,7
+298808,South Africa,West Indies,01-02-2008,West Indies,bat,AB de Villiers,,5
+298809,South Africa,West Indies,03-02-2008,South Africa,field,HH Gibbs,,8
+299006,Pakistan,South Africa,18-10-2007,South Africa,bat,AB de Villiers,45,
+299007,Pakistan,South Africa,20-10-2007,Pakistan,bat,Mohammad Yousuf,25,
+299008,Pakistan,South Africa,23-10-2007,South Africa,bat,Shahid Afridi,,6
+299009,Pakistan,South Africa,26-10-2007,Pakistan,bat,SM Pollock,,7
+299010,Pakistan,South Africa,29-10-2007,South Africa,bat,M Ntini,14,
+300426,New Zealand,Bangladesh,26-12-2007,New Zealand,field,JM How,,6
+300427,New Zealand,Bangladesh,28-12-2007,New Zealand,bat,PG Fulton,102,
+300428,New Zealand,Bangladesh,31-12-2007,New Zealand,field,DL Vettori,,10
+300437,New Zealand,England,09-02-2008,England,bat,SB Styris,,6
+300438,New Zealand,England,12-02-2008,New Zealand,field,JD Ryder,,10
+300439,New Zealand,England,15-02-2008,England,field,PD Collingwood,,6
+300440,New Zealand,England,20-02-2008,New Zealand,field,JM How,,
+300441,New Zealand,England,23-02-2008,New Zealand,field,BB McCullum,34,
+300486,Zimbabwe,South Africa,22-08-2007,Zimbabwe,bat,GB Brent,,5
+300487,Zimbabwe,South Africa,25-08-2007,South Africa,field,HH Gibbs,,8
+300488,Zimbabwe,South Africa,26-08-2007,South Africa,bat,AB de Villiers,28,
+313992,Kenya,Bermuda,25-10-2007,Kenya,field,,,8
+313993,Kenya,Bermuda,27-10-2007,Bermuda,bat,,,3
+313994,Kenya,Bermuda,28-10-2007,Bermuda,bat,,,1
+317578,Zimbabwe,West Indies,30-11-2007,West Indies,field,CJ Chibhabha,30,
+317579,Zimbabwe,West Indies,02-12-2007,Zimbabwe,field,RS Morton,110,
+317581,Zimbabwe,West Indies,07-12-2007,West Indies,field,JE Taylor,,5
+319134,West Indies,Sri Lanka,10-04-2008,West Indies,field,DJ Bravo,,1
+319135,West Indies,Sri Lanka,12-04-2008,West Indies,field,S Chanderpaul,,7
+319136,West Indies,Sri Lanka,15-04-2008,West Indies,field,,,
+319143,West Indies,Australia,24-06-2008,West Indies,field,SE Marsh,84,
+319144,West Indies,Australia,27-06-2008,Australia,bat,MJ Clarke,63,
+319145,West Indies,Australia,29-06-2008,Australia,field,SR Watson,,7
+319146,West Indies,Australia,04-07-2008,West Indies,field,A Symonds,1,
+319147,West Indies,Australia,06-07-2008,Australia,bat,L Ronchi,169,
+323949,Bangladesh,South Africa,09-03-2008,Bangladesh,bat,GC Smith,,9
+323950,Bangladesh,South Africa,12-03-2008,Bangladesh,bat,A Nel,,7
+323951,Bangladesh,South Africa,14-03-2008,Bangladesh,bat,JA Morkel,,7
+325569,Canada,Bermuda,29-06-2008,Canada,field,S Dhaniram,11,
+325572,Scotland,Kenya,12-08-2008,Scotland,field,,,
+325576,Ireland,Kenya,25-08-2008,Kenya,field,,,
+325579,Netherlands,Scotland,29-07-2008,Netherlands,bat,,,6
+325580,Ireland,Scotland,31-07-2008,Ireland,field,,,7
+325581,Ireland,Zimbabwe,17-10-2008,Zimbabwe,bat,,156,
+325800,Pakistan,Zimbabwe,21-01-2008,Zimbabwe,field,Nasir Jamshed,104,
+325801,Pakistan,Zimbabwe,24-01-2008,Zimbabwe,bat,Sohail Tanvir,,5
+325802,Pakistan,Zimbabwe,27-01-2008,Pakistan,bat,Shahid Afridi,37,
+325803,Pakistan,Zimbabwe,30-01-2008,Zimbabwe,bat,Shoaib Malik,,7
+325804,Pakistan,Zimbabwe,02-02-2008,Zimbabwe,bat,Younis Khan,,7
+335346,Bangladesh,United Arab Emirates,24-06-2008,Bangladesh,bat,Mohammad Ashraful,96,
+335347,Pakistan,Hong Kong,24-06-2008,Pakistan,bat,Sohail Tanvir,155,
+335348,Bangladesh,Sri Lanka,25-06-2008,Bangladesh,field,KC Sangakkara,131,
+335349,Hong Kong,India,25-06-2008,India,bat,SK Raina,256,
+335350,Sri Lanka,United Arab Emirates,26-06-2008,Sri Lanka,bat,BAW Mendis,142,
+335351,Pakistan,India,26-06-2008,Pakistan,bat,SK Raina,,6
+335354,Bangladesh,Sri Lanka,30-06-2008,Sri Lanka,bat,ST Jayasuriya,158,
+335355,Pakistan,India,02-07-2008,India,bat,Younis Khan,,8
+335356,India,Sri Lanka,03-07-2008,Sri Lanka,bat,MS Dhoni,,6
+335357,Pakistan,Bangladesh,04-07-2008,Bangladesh,bat,Abdur Rauf,,10
+335358,India,Sri Lanka,06-07-2008,India,field,BAW Mendis,100,
+335987,Rajasthan Royals,Kings XI Punjab,21-04-2008,Kings XI Punjab,bat,SR Watson,,6
+335988,Deccan Chargers,Delhi Daredevils,22-04-2008,Deccan Chargers,bat,V Sehwag,,9
+335990,Deccan Chargers,Rajasthan Royals,24-04-2008,Rajasthan Royals,field,YK Pathan,,3
+335992,Royal Challengers Bangalore,Rajasthan Royals,26-04-2008,Rajasthan Royals,field,SR Watson,,7
+335993,Chennai Super Kings,Kolkata Knight Riders,26-04-2008,Kolkata Knight Riders,bat,JDP Oram,,9
+335997,Kolkata Knight Riders,Mumbai Indians,29-04-2008,Kolkata Knight Riders,bat,ST Jayasuriya,,7
+336000,Rajasthan Royals,Kolkata Knight Riders,01-05-2008,Rajasthan Royals,bat,SA Asnodkar,45,
+336011,Rajasthan Royals,Deccan Chargers,09-05-2008,Rajasthan Royals,field,YK Pathan,,8
+336016,Kings XI Punjab,Royal Challengers Bangalore,12-05-2008,Royal Challengers Bangalore,bat,SE Marsh,,9
+336018,Mumbai Indians,Chennai Super Kings,14-05-2008,Mumbai Indians,field,ST Jayasuriya,,9
+336019,Kings XI Punjab,Rajasthan Royals,28-05-2008,Rajasthan Royals,field,SE Marsh,41,
+336028,Mumbai Indians,Kings XI Punjab,21-05-2008,Mumbai Indians,field,SE Marsh,1,
+336036,Rajasthan Royals,Mumbai Indians,26-05-2008,Rajasthan Royals,field,Sohail Tanvir,,5
+336201,Australia,Bangladesh,30-08-2008,Bangladesh,field,MEK Hussey,180,
+336202,Australia,Bangladesh,03-09-2008,Bangladesh,bat,SE Marsh,,8
+336204,Australia,Bangladesh,06-09-2008,Australia,bat,Tamim Iqbal,73,
+343732,Sri Lanka,India,18-08-2008,India,bat,BAW Mendis,,8
+343733,Sri Lanka,India,20-08-2008,India,field,Z Khan,,3
+343734,Sri Lanka,India,24-08-2008,India,bat,MS Dhoni,33,
+343736,Sri Lanka,India,29-08-2008,Sri Lanka,bat,KMDN Kulasekara,112,
+343759,Pakistan,Bangladesh,08-04-2008,Pakistan,bat,Mohammad Yousuf,152,
+343760,Pakistan,Bangladesh,11-04-2008,Bangladesh,bat,Salman Butt,,7
+343761,Pakistan,Bangladesh,13-04-2008,Pakistan,bat,Salman Butt,23,
+343762,Pakistan,Bangladesh,16-04-2008,Bangladesh,bat,Shakib Al Hasan,,7
+343763,Pakistan,Bangladesh,19-04-2008,Pakistan,bat,Mohammad Asif,150,
+345468,Bangladesh,Pakistan,08-06-2008,Bangladesh,field,Salman Butt,70,
+345469,India,Pakistan,10-06-2008,India,bat,V Sehwag,140,
+345470,Bangladesh,India,12-06-2008,Bangladesh,bat,G Gambhir,,7
+345471,India,Pakistan,14-06-2008,Pakistan,bat,Younis Khan,25,
+350043,England,Australia,04-09-2009,England,field,CJ Ferguson,4,
+350044,England,Australia,06-09-2009,England,field,MG Johnson,39,
+350045,England,Australia,09-09-2009,England,bat,CL White,,6
+350046,England,Australia,12-09-2009,England,bat,B Lee,,7
+350048,England,Australia,17-09-2009,Australia,bat,TD Paine,111,
+350049,England,Australia,20-09-2009,England,field,GP Swann,,4
+350348,South Africa,Bangladesh,07-11-2008,South Africa,bat,DW Steyn,61,
+350477,South Africa,Australia,03-04-2009,Australia,bat,MEK Hussey,141,
+350478,South Africa,Australia,05-04-2009,Australia,bat,WD Parnell,,7
+350479,South Africa,Australia,09-04-2009,South Africa,bat,JH Kallis,25,
+350480,South Africa,Australia,13-04-2009,Australia,field,HH Gibbs,61,
+350481,South Africa,Australia,17-04-2009,South Africa,field,NM Hauritz,47,
+351684,Australia,South Africa,16-01-2009,Australia,bat,JA Morkel,,3
+351685,Australia,South Africa,18-01-2009,South Africa,field,SE Marsh,5,
+351686,Australia,South Africa,23-01-2009,Australia,bat,JA Morkel,,3
+351687,Australia,South Africa,26-01-2009,Australia,bat,AB de Villiers,,8
+351688,Australia,South Africa,30-01-2009,South Africa,bat,HM Amla,39,
+351689,Australia,New Zealand,01-02-2009,Australia,bat,KD Mills,,2
+351690,Australia,New Zealand,06-02-2009,New Zealand,field,MJ Clarke,,6
+351691,Australia,New Zealand,08-02-2009,New Zealand,field,BJ Haddin,32,
+351692,Australia,New Zealand,10-02-2009,New Zealand,bat,DJ Hussey,,6
+351693,Australia,New Zealand,13-02-2009,New Zealand,field,,,
+351696,Australia,New Zealand,15-02-2009,Australia,bat,NW Bracken,1,
+352665,West Indies,England,20-03-2009,England,bat,PD Collingwood,1,
+352666,West Indies,England,22-03-2009,West Indies,bat,S Chanderpaul,21,
+352667,West Indies,England,27-03-2009,West Indies,field,DJ Bravo,,8
+352668,West Indies,England,29-03-2009,England,field,AJ Strauss,,9
+352669,West Indies,England,03-04-2009,West Indies,field,A Flintoff,26,
+355991,England,Netherlands,05-06-2009,Netherlands,field,TN de Grooth,,4
+355993,Australia,West Indies,06-06-2009,Australia,bat,CH Gayle,,7
+355994,Bangladesh,India,06-06-2009,India,bat,PP Ojha,25,
+356010,England,India,14-06-2009,India,field,RJ Sidebottom,3,
+356016,Sri Lanka,West Indies,19-06-2009,West Indies,field,TM Dilshan,57,
+357962,England,India,10-03-2009,England,field,CMG Atkins,,9
+360800,South Africa,Kenya,31-10-2008,South Africa,bat,JP Duminy,159,
+361043,India,England,14-11-2008,England,field,Yuvraj Singh,158,
+361044,India,England,17-11-2008,India,bat,Yuvraj Singh,54,
+361045,India,England,20-11-2008,England,bat,Harbhajan Singh,16,
+361046,India,England,23-11-2008,England,field,V Sehwag,19,
+361047,India,England,26-11-2008,India,field,V Sehwag,,6
+366341,Sri Lanka,India,27-08-2008,India,bat,SK Raina,46,
+366623,New Zealand,India,03-03-2009,India,bat,MS Dhoni,53,
+366624,New Zealand,India,11-03-2009,New Zealand,bat,V Sehwag,84,
+366625,New Zealand,India,14-03-2009,India,bat,JD Ryder,,8
+366626,New Zealand,India,06-03-2009,India,bat,,,
+366627,New Zealand,India,08-03-2009,New Zealand,field,SR Tendulkar,58,
+366709,New Zealand,West Indies,31-12-2008,New Zealand,field,,,
+366711,New Zealand,West Indies,07-01-2009,New Zealand,field,DL Vettori,,7
+374059,Pakistan,West Indies,12-11-2008,West Indies,bat,CH Gayle,,4
+374060,Pakistan,West Indies,14-11-2008,Pakistan,bat,Sohail Tanvir,24,
+375456,Zimbabwe,Sri Lanka,20-11-2008,Sri Lanka,field,M Muralitharan,,6
+375457,Zimbabwe,Sri Lanka,22-11-2008,Zimbabwe,bat,BAW Mendis,,9
+375460,Zimbabwe,Sri Lanka,24-11-2008,Zimbabwe,field,H Masakadza,5,
+375462,Zimbabwe,Sri Lanka,30-11-2008,Zimbabwe,field,M Muralitharan,19,
+377313,West Indies,India,26-06-2009,India,bat,Yuvraj Singh,20,
+377314,West Indies,India,28-06-2009,India,bat,R Rampaul,,8
+377315,West Indies,India,03-07-2009,India,field,MS Dhoni,,6
+377316,West Indies,India,05-07-2009,India,field,,,
+378755,Bangladesh,Sri Lanka,14-01-2009,Bangladesh,field,Shakib Al Hasan,,5
+378759,Bangladesh,Zimbabwe,23-01-2009,Bangladesh,field,Mashrafe Mortaza,,6
+380715,England,West Indies,24-05-2009,England,field,PD Collingwood,,6
+383275,Ireland,England,27-08-2009,England,bat,DT Johnston,3,
+383283,England,Australia,29-06-2009,Australia,bat,SJ Taylor,,9
+385025,Kenya,Zimbabwe,31-01-2009,Kenya,bat,,,4
+385749,Pakistan,Sri Lanka,20-01-2009,Sri Lanka,bat,Salman Butt,,8
+385750,Pakistan,Sri Lanka,21-01-2009,Pakistan,field,TM Dilshan,129,
+385751,Pakistan,Sri Lanka,24-01-2009,Sri Lanka,bat,TM Dilshan,234,
+386530,Sri Lanka,India,28-01-2009,India,field,ST Jayasuriya,,6
+386531,Sri Lanka,India,31-01-2009,India,bat,I Sharma,15,
+386532,Sri Lanka,India,03-02-2009,India,bat,Yuvraj Singh,147,
+386533,Sri Lanka,India,05-02-2009,India,bat,G Gambhir,67,
+386534,Sri Lanka,India,08-02-2009,Sri Lanka,bat,KC Sangakkara,68,
+387566,South Africa,England,22-11-2009,England,field,PD Collingwood,,7
+387567,South Africa,England,27-11-2009,South Africa,bat,AB de Villiers,112,
+387568,South Africa,England,29-11-2009,South Africa,bat,JM Anderson,,7
+390204,Ireland,Scotland,01-04-2009,Ireland,field,WTS Porterfield,,7
+390227,Canada,Scotland,08-04-2009,Scotland,field,A Bagai,148,
+390253,Afghanistan,Scotland,19-04-2009,Afghanistan,bat,Mohammad Nabi,89,
+392182,Royal Challengers Bangalore,Rajasthan Royals,18-04-2009,Royal Challengers Bangalore,bat,R Dravid,75,
+392185,Royal Challengers Bangalore,Chennai Super Kings,20-04-2009,Chennai Super Kings,bat,M Muralitharan,92,
+392186,Kings XI Punjab,Kolkata Knight Riders,21-04-2009,Kolkata Knight Riders,field,CH Gayle,11,
+392194,Royal Challengers Bangalore,Delhi Daredevils,26-04-2009,Royal Challengers Bangalore,bat,TM Dilshan,,6
+392195,Kings XI Punjab,Rajasthan Royals,26-04-2009,Kings XI Punjab,bat,KC Sangakkara,27,
+392196,Chennai Super Kings,Deccan Chargers,27-04-2009,Deccan Chargers,field,HH Gibbs,,6
+392204,Royal Challengers Bangalore,Kings XI Punjab,01-05-2009,Royal Challengers Bangalore,bat,Yuvraj Singh,8,
+392208,Royal Challengers Bangalore,Mumbai Indians,03-05-2009,Mumbai Indians,bat,JH Kallis,,9
+392209,Chennai Super Kings,Deccan Chargers,04-05-2009,Chennai Super Kings,bat,MS Dhoni,78,
+392216,Deccan Chargers,Kings XI Punjab,09-05-2009,Kings XI Punjab,field,DPMD Jayawardene,,3
+392217,Chennai Super Kings,Rajasthan Royals,09-05-2009,Rajasthan Royals,bat,S Badrinath,,7
+392218,Royal Challengers Bangalore,Mumbai Indians,10-05-2009,Mumbai Indians,bat,JP Duminy,16,
+392221,Royal Challengers Bangalore,Kolkata Knight Riders,12-05-2009,Royal Challengers Bangalore,field,LRPL Taylor,,6
+392222,Kings XI Punjab,Mumbai Indians,12-05-2009,Kings XI Punjab,bat,Harbhajan Singh,,8
+392223,Deccan Chargers,Delhi Daredevils,13-05-2009,Deccan Chargers,field,R Bhatia,12,
+392229,Deccan Chargers,Kings XI Punjab,17-05-2009,Deccan Chargers,field,Yuvraj Singh,1,
+392231,Chennai Super Kings,Kolkata Knight Riders,18-05-2009,Chennai Super Kings,bat,BJ Hodge,,7
+392235,Delhi Daredevils,Mumbai Indians,21-05-2009,Delhi Daredevils,field,V Sehwag,,4
+392237,Delhi Daredevils,Deccan Chargers,22-05-2009,Deccan Chargers,field,AC Gilchrist,,6
+392616,Australia,Pakistan,22-04-2009,Australia,bat,Shahid Afridi,,4
+392617,Australia,Pakistan,24-04-2009,Pakistan,bat,A Symonds,,6
+392618,Australia,Pakistan,27-04-2009,Australia,bat,MJ Clarke,27,
+392619,Australia,Pakistan,01-05-2009,Pakistan,bat,DE Bollinger,,8
+392620,Australia,Pakistan,03-05-2009,Australia,bat,Kamran Akmal,,7
+401073,West Indies,Bangladesh,26-07-2009,West Indies,field,Abdur Razzak,52,
+401074,West Indies,Bangladesh,28-07-2009,West Indies,bat,Shakib Al Hasan,,3
+401075,West Indies,Bangladesh,31-07-2009,West Indies,bat,Mahmudullah,,3
+401076,West Indies,Bangladesh,02-08-2009,Bangladesh,bat,DJG Sammy,,5
+403370,Sri Lanka,Pakistan,30-07-2009,Pakistan,field,M Muralitharan,36,
+403371,Sri Lanka,Pakistan,01-08-2009,Sri Lanka,field,CK Kapugedera,,6
+403372,Sri Lanka,Pakistan,03-08-2009,Sri Lanka,field,DPMD Jayawardene,,6
+403373,Sri Lanka,Pakistan,07-08-2009,Pakistan,bat,Umar Akmal,146,
+403374,Sri Lanka,Pakistan,09-08-2009,Pakistan,bat,Naved-ul-Hasan,132,
+403380,Sri Lanka,New Zealand,08-09-2009,Sri Lanka,bat,TT Samaraweera,97,
+403381,Sri Lanka,India,12-09-2009,Sri Lanka,bat,AD Mathews,139,
+403382,India,New Zealand,11-09-2009,New Zealand,bat,A Nehra,,6
+403383,Sri Lanka,India,14-09-2009,India,bat,SR Tendulkar,46,
+406192,Australia,West Indies,07-02-2010,West Indies,field,SR Watson,113,
+406193,Australia,West Indies,09-02-2010,West Indies,bat,DE Bollinger,,8
+406194,Australia,West Indies,12-02-2010,West Indies,field,,,
+406195,Australia,West Indies,14-02-2010,West Indies,field,RT Ponting,50,
+406196,Australia,West Indies,19-02-2010,Australia,bat,JR Hopes,125,
+406202,Australia,Pakistan,22-01-2010,Pakistan,bat,CL White,,5
+406203,Australia,Pakistan,24-01-2010,Pakistan,field,SR Watson,140,
+406204,Australia,Pakistan,26-01-2010,Australia,bat,RJ Harris,40,
+406205,Australia,Pakistan,29-01-2010,Australia,bat,RJ Harris,135,
+406206,Australia,Pakistan,31-01-2010,Pakistan,bat,CJ McKay,,2
+410337,Zimbabwe,Bangladesh,09-08-2009,Bangladesh,field,Mohammad Ashraful,,8
+410338,Zimbabwe,Bangladesh,11-08-2009,Zimbabwe,field,Shakib Al Hasan,49,
+410339,Zimbabwe,Bangladesh,14-08-2009,Bangladesh,field,E Chigumbura,69,
+410340,Zimbabwe,Bangladesh,16-08-2009,Zimbabwe,bat,Tamim Iqbal,,4
+410341,Zimbabwe,Bangladesh,18-08-2009,Zimbabwe,bat,Dolar Mahmud,,5
+412677,West Indies,Ireland,30-04-2010,West Indies,bat,DJG Sammy,70,
+412688,Australia,Bangladesh,05-05-2010,Australia,bat,MEK Hussey,27,
+412689,England,Pakistan,06-05-2010,England,field,KP Pietersen,,6
+412693,New Zealand,Pakistan,08-05-2010,Pakistan,field,IG Butler,1,
+412694,England,South Africa,08-05-2010,England,bat,KP Pietersen,39,
+412695,West Indies,India,09-05-2010,India,field,CH Gayle,14,
+412702,Australia,Pakistan,14-05-2010,Australia,field,MEK Hussey,,3
+415162,Canada,Kenya,19-08-2009,Canada,field,Khurram Chohan,,9
+415273,South Africa,Sri Lanka,22-09-2009,South Africa,field,TM Dilshan,55,
+415274,Pakistan,West Indies,23-09-2009,West Indies,bat,Umar Akmal,,5
+415275,South Africa,New Zealand,24-09-2009,South Africa,field,WD Parnell,,5
+415276,England,Sri Lanka,25-09-2009,England,field,PD Collingwood,,6
+415277,Australia,West Indies,26-09-2009,West Indies,field,MG Johnson,50,
+415278,India,Pakistan,26-09-2009,Pakistan,bat,Shoaib Malik,54,
+415280,South Africa,England,27-09-2009,England,bat,OA Shah,22,
+415281,Australia,India,28-09-2009,Australia,bat,,,
+415282,England,New Zealand,29-09-2009,New Zealand,field,GD Elliott,,4
+415284,India,West Indies,30-09-2009,India,field,V Kohli,,7
+415285,Australia,England,02-10-2009,England,bat,SR Watson,,9
+415286,New Zealand,Pakistan,03-10-2009,Pakistan,bat,DL Vettori,,5
+415287,Australia,New Zealand,05-10-2009,New Zealand,bat,SR Watson,,6
+416236,India,Australia,25-10-2009,Australia,bat,MEK Hussey,4,
+416237,India,Australia,28-10-2009,Australia,field,MS Dhoni,99,
+416238,India,Australia,31-10-2009,Australia,bat,Yuvraj Singh,,6
+416239,India,Australia,02-11-2009,India,field,SR Watson,24,
+416240,India,Australia,05-11-2009,Australia,bat,SR Tendulkar,3,
+416241,India,Australia,08-11-2009,India,bat,DE Bollinger,,6
+419110,Chennai Super Kings,Deccan Chargers,14-03-2010,Deccan Chargers,bat,WPUJC Vaas,31,
+419111,Rajasthan Royals,Delhi Daredevils,15-03-2010,Delhi Daredevils,field,V Sehwag,,6
+419112,Royal Challengers Bangalore,Kings XI Punjab,16-03-2010,Kings XI Punjab,bat,JH Kallis,,8
+419125,Mumbai Indians,Chennai Super Kings,25-03-2010,Mumbai Indians,field,SR Tendulkar,,5
+419130,Deccan Chargers,Mumbai Indians,28-03-2010,Deccan Chargers,field,Harbhajan Singh,41,
+419132,Mumbai Indians,Kings XI Punjab,30-03-2010,Mumbai Indians,field,SL Malinga,,4
+419136,Kings XI Punjab,Royal Challengers Bangalore,02-04-2010,Kings XI Punjab,bat,KP Pietersen,,6
+419137,Chennai Super Kings,Rajasthan Royals,03-04-2010,Chennai Super Kings,bat,M Vijay,23,
+419139,Kolkata Knight Riders,Kings XI Punjab,04-04-2010,Kolkata Knight Riders,bat,DPMD Jayawardene,,8
+419146,Kings XI Punjab,Mumbai Indians,09-04-2010,Mumbai Indians,bat,KC Sangakkara,,6
+419148,Royal Challengers Bangalore,Kolkata Knight Riders,10-04-2010,Royal Challengers Bangalore,field,R Vinay Kumar,,7
+419153,Chennai Super Kings,Kolkata Knight Riders,13-04-2010,Kolkata Knight Riders,bat,R Ashwin,,9
+419162,Royal Challengers Bangalore,Mumbai Indians,21-04-2010,Mumbai Indians,bat,KA Pollard,35,
+419165,Chennai Super Kings,Mumbai Indians,25-04-2010,Chennai Super Kings,bat,SK Raina,22,
+422626,Bangladesh,Zimbabwe,27-10-2009,Zimbabwe,field,E Chigumbura,,5
+422627,Bangladesh,Zimbabwe,29-10-2009,Zimbabwe,bat,Abdur Razzak,,7
+422628,Bangladesh,Zimbabwe,31-10-2009,Bangladesh,field,Tamim Iqbal,,4
+422629,Bangladesh,Zimbabwe,03-11-2009,Zimbabwe,bat,Nazmul Hossain,,6
+422630,Bangladesh,Zimbabwe,05-11-2009,Bangladesh,field,Naeem Islam,,1
+423387,South Africa,West Indies,21-10-2009,South Africa,field,C Brits,,7
+423783,New Zealand,Bangladesh,05-02-2010,New Zealand,bat,JDP Oram,146,
+423784,New Zealand,Bangladesh,08-02-2010,New Zealand,field,LRPL Taylor,,5
+423785,New Zealand,Bangladesh,11-02-2010,New Zealand,field,MJ Guptill,,3
+423791,New Zealand,Australia,03-03-2010,Australia,bat,LRPL Taylor,,2
+423792,New Zealand,Australia,06-03-2010,Australia,bat,DL Vettori,12,
+423793,New Zealand,Australia,09-03-2010,Australia,field,BJ Haddin,,6
+423794,New Zealand,Australia,11-03-2010,Australia,field,CL White,,6
+423795,New Zealand,Australia,13-03-2010,Australia,field,TG Southee,51,
+426384,Ireland,Australia,17-06-2010,Australia,bat,JR Hopes,39,
+426387,England,Australia,22-06-2010,Australia,bat,EJG Morgan,,4
+426389,England,Australia,27-06-2010,England,field,GP Swann,,1
+426390,England,Australia,30-06-2010,England,field,RJ Harris,78,
+426391,England,Australia,03-07-2010,Australia,bat,SW Tait,42,
+426403,England,Bangladesh,08-07-2010,Bangladesh,bat,IR Bell,,6
+426404,England,Bangladesh,10-07-2010,England,field,Mashrafe Mortaza,5,
+426420,Bangladesh,England,28-02-2010,England,field,Tamim Iqbal,,6
+426421,Bangladesh,England,02-03-2010,England,field,EJG Morgan,,2
+426422,Bangladesh,England,05-03-2010,Bangladesh,field,C Kieswetter,45,
+426428,England,Pakistan,10-09-2010,Pakistan,field,SM Davies,24,
+426429,England,Pakistan,12-09-2010,Pakistan,bat,AJ Strauss,,4
+426430,England,Pakistan,17-09-2010,Pakistan,bat,Umar Gul,23,
+426431,England,Pakistan,20-09-2010,Pakistan,bat,Abdul Razzaq,38,
+426720,New Zealand,Pakistan,03-11-2009,Pakistan,bat,Shahid Afridi,138,
+426721,New Zealand,Pakistan,06-11-2009,New Zealand,bat,BB McCullum,64,
+426722,New Zealand,Pakistan,09-11-2009,New Zealand,bat,Mohammad Amir,7,
+430508,South Africa,Zimbabwe,08-11-2009,Zimbabwe,field,T Taibu,45,
+430509,South Africa,Zimbabwe,10-11-2009,Zimbabwe,field,JP Duminy,212,
+430886,India,Sri Lanka,15-12-2009,Sri Lanka,field,V Sehwag,3,
+430887,India,Sri Lanka,18-12-2009,India,bat,TM Dilshan,,3
+430888,India,Sri Lanka,21-12-2009,Sri Lanka,bat,RA Jadeja,,7
+430889,India,Sri Lanka,24-12-2009,Sri Lanka,bat,G Gambhir,,7
+430890,India,Sri Lanka,27-12-2009,India,field,,,
+433558,Bangladesh,India,19-02-2011,Bangladesh,field,V Sehwag,87,
+433559,Kenya,New Zealand,20-02-2011,Kenya,bat,HK Bennett,,10
+433560,Sri Lanka,Canada,20-02-2011,Sri Lanka,bat,DPMD Jayawardene,210,
+433561,Australia,Zimbabwe,21-02-2011,Australia,bat,SR Watson,91,
+433562,England,Netherlands,22-02-2011,Netherlands,bat,RN ten Doeschate,,6
+433564,South Africa,West Indies,24-02-2011,South Africa,field,AB de Villiers,,7
+433565,Australia,New Zealand,25-02-2011,Australia,field,MG Johnson,,7
+433566,Bangladesh,Ireland,25-02-2011,Bangladesh,bat,Tamim Iqbal,27,
+433568,India,England,27-02-2011,India,bat,AJ Strauss,,
+433569,Netherlands,West Indies,28-02-2011,Netherlands,field,KAJ Roach,215,
+433570,Canada,Zimbabwe,28-02-2011,Zimbabwe,bat,T Taibu,175,
+433571,Sri Lanka,Kenya,01-03-2011,Kenya,bat,SL Malinga,,9
+433572,England,Ireland,02-03-2011,England,bat,KJ O'Brien,,3
+433573,Netherlands,South Africa,03-03-2011,Netherlands,field,AB de Villiers,231,
+433574,Canada,Pakistan,03-03-2011,Pakistan,bat,Shahid Afridi,46,
+433575,New Zealand,Zimbabwe,04-03-2011,Zimbabwe,bat,MJ Guptill,,10
+433576,Bangladesh,West Indies,04-03-2011,Bangladesh,bat,KAJ Roach,,9
+433577,Sri Lanka,Australia,05-03-2011,Sri Lanka,bat,,,
+433578,India,Ireland,06-03-2011,India,field,Yuvraj Singh,,5
+433579,England,South Africa,06-03-2011,England,bat,RS Bopara,6,
+433581,New Zealand,Pakistan,08-03-2011,New Zealand,bat,LRPL Taylor,110,
+433582,India,Netherlands,09-03-2011,Netherlands,bat,Yuvraj Singh,,5
+433583,Sri Lanka,Zimbabwe,10-03-2011,Zimbabwe,field,TM Dilshan,139,
+433584,Ireland,West Indies,11-03-2011,Ireland,field,KA Pollard,44,
+433585,Bangladesh,England,11-03-2011,Bangladesh,field,Imrul Kayes,,2
+433586,India,South Africa,12-03-2011,India,bat,DW Steyn,,3
+433588,Australia,Kenya,13-03-2011,Australia,bat,CO Obuya,60,
+433589,Pakistan,Zimbabwe,14-03-2011,Zimbabwe,bat,Umar Gul,,7
+433590,Bangladesh,Netherlands,14-03-2011,Netherlands,bat,Imrul Kayes,,6
+433591,Ireland,South Africa,15-03-2011,Ireland,field,JP Duminy,131,
+433592,Australia,Canada,16-03-2011,Canada,bat,SR Watson,,7
+433593,England,West Indies,17-03-2011,England,bat,JC Tredwell,18,
+433594,New Zealand,Sri Lanka,18-03-2011,Sri Lanka,bat,KC Sangakkara,112,
+433596,Australia,Pakistan,19-03-2011,Australia,bat,Umar Akmal,,4
+433597,Bangladesh,South Africa,19-03-2011,South Africa,bat,LL Tsotsobe,206,
+433598,Kenya,Zimbabwe,20-03-2011,Zimbabwe,bat,CR Ervine,161,
+433599,India,West Indies,20-03-2011,India,bat,Yuvraj Singh,80,
+433600,Pakistan,West Indies,23-03-2011,West Indies,bat,Mohammad Hafeez,,10
+433603,Sri Lanka,England,26-03-2011,England,bat,TM Dilshan,,10
+433604,Sri Lanka,New Zealand,29-03-2011,New Zealand,bat,KC Sangakkara,,5
+433605,India,Pakistan,30-03-2011,India,bat,SR Tendulkar,29,
+433606,India,Sri Lanka,02-04-2011,Sri Lanka,bat,MS Dhoni,,6
+434258,Bangladesh,Sri Lanka,04-01-2010,Sri Lanka,field,TM Dilshan,,7
+434259,India,Sri Lanka,05-01-2010,Sri Lanka,field,TT Samaraweera,,5
+434260,Bangladesh,India,07-01-2010,Bangladesh,bat,MS Dhoni,,6
+434261,Bangladesh,Sri Lanka,08-01-2010,Sri Lanka,field,WU Tharanga,,9
+434262,India,Sri Lanka,10-01-2010,Sri Lanka,bat,Z Khan,,8
+434263,Bangladesh,India,11-01-2010,India,field,V Kohli,,6
+434264,India,Sri Lanka,13-01-2010,Sri Lanka,field,KMDN Kulasekara,,4
+439140,West Indies,Zimbabwe,04-03-2010,Zimbabwe,bat,V Sibanda,2,
+439141,West Indies,Zimbabwe,06-03-2010,Zimbabwe,bat,N Deonarine,,4
+439142,West Indies,Zimbabwe,10-03-2010,Zimbabwe,field,DJG Sammy,141,
+439143,West Indies,Zimbabwe,12-03-2010,West Indies,field,DJ Bravo,,4
+439144,West Indies,Zimbabwe,14-03-2010,West Indies,field,CH Gayle,,4
+439147,West Indies,South Africa,22-05-2010,West Indies,field,HM Amla,66,
+439148,West Indies,South Africa,24-05-2010,South Africa,bat,HM Amla,17,
+439149,West Indies,South Africa,28-05-2010,South Africa,bat,AB de Villiers,67,
+439150,West Indies,South Africa,30-05-2010,West Indies,bat,HM Amla,,7
+439151,West Indies,South Africa,03-06-2010,West Indies,bat,JH Kallis,,1
+441827,India,South Africa,21-02-2010,South Africa,field,RA Jadeja,1,
+441828,India,South Africa,24-02-2010,India,bat,SR Tendulkar,153,
+441829,India,South Africa,27-02-2010,South Africa,bat,AB de Villiers,90,
+446957,Australia,Sri Lanka,03-11-2010,Australia,bat,AD Mathews,,1
+446958,Australia,Sri Lanka,05-11-2010,Sri Lanka,bat,WU Tharanga,29,
+446959,Australia,Sri Lanka,07-11-2010,Sri Lanka,bat,CJ McKay,,8
+446962,Australia,England,16-01-2011,England,bat,SR Watson,,6
+446963,Australia,England,21-01-2011,England,field,SE Marsh,46,
+446964,Australia,England,23-01-2011,England,bat,B Lee,,4
+446965,Australia,England,26-01-2011,England,bat,IJL Trott,21,
+446966,Australia,England,30-01-2011,Australia,bat,CR Woakes,51,
+446967,Australia,England,02-02-2011,England,bat,IJL Trott,,2
+446968,Australia,England,06-02-2011,Australia,bat,AC Voges,57,
+450107,Ireland,Bangladesh,16-07-2010,Ireland,bat,Shafiul Islam,,6
+450498,Scotland,Afghanistan,16-08-2010,Scotland,bat,,,9
+450501,Scotland,Afghanistan,17-08-2010,Afghanistan,bat,,,6
+452146,Zimbabwe,India,28-05-2010,India,bat,BRM Taylor,,6
+452147,India,Sri Lanka,30-05-2010,India,field,RG Sharma,,7
+452148,Zimbabwe,Sri Lanka,01-06-2010,Sri Lanka,field,S Randiv,,9
+452149,Zimbabwe,India,03-06-2010,Zimbabwe,field,BRM Taylor,,7
+452150,India,Sri Lanka,05-06-2010,Sri Lanka,field,LD Chandimal,,6
+452151,Zimbabwe,Sri Lanka,07-06-2010,Zimbabwe,field,BRM Taylor,,8
+452152,Zimbabwe,Sri Lanka,09-06-2010,Sri Lanka,field,TM Dilshan,,9
+455231,Sri Lanka,Pakistan,15-06-2010,Sri Lanka,bat,Shahid Afridi,16,
+455232,Bangladesh,India,16-06-2010,Bangladesh,bat,G Gambhir,,6
+455233,Sri Lanka,Bangladesh,18-06-2010,Sri Lanka,bat,TM Dilshan,126,
+455234,India,Pakistan,19-06-2010,Pakistan,bat,G Gambhir,,3
+455235,Bangladesh,Pakistan,21-06-2010,Pakistan,bat,Shahid Afridi,139,
+455236,Sri Lanka,India,22-06-2010,Sri Lanka,field,MF Maharoof,,7
+456662,India,New Zealand,10-08-2010,New Zealand,bat,LRPL Taylor,200,
+456663,Sri Lanka,India,16-08-2010,Sri Lanka,bat,V Sehwag,,6
+456664,Sri Lanka,New Zealand,13-08-2010,New Zealand,bat,WU Tharanga,,3
+456665,India,New Zealand,25-08-2010,India,bat,V Sehwag,105,
+456666,Sri Lanka,India,22-08-2010,India,bat,NLTC Perera,,8
+456668,Sri Lanka,India,28-08-2010,Sri Lanka,bat,TM Dilshan,74,
+461566,Pakistan,South Africa,29-10-2010,Pakistan,bat,LL Tsotsobe,,8
+461567,Pakistan,South Africa,31-10-2010,South Africa,bat,Abdul Razzaq,,1
+461568,Pakistan,South Africa,02-11-2010,Pakistan,field,HM Amla,2,
+461569,Pakistan,South Africa,05-11-2010,South Africa,bat,Younis Khan,,1
+461570,Pakistan,South Africa,08-11-2010,South Africa,bat,JH Kallis,57,
+463143,South Africa,Zimbabwe,15-10-2010,South Africa,bat,CA Ingram,64,
+463144,South Africa,Zimbabwe,17-10-2010,Zimbabwe,bat,J Theron,,8
+463145,South Africa,Zimbabwe,22-10-2010,South Africa,bat,JP Duminy,272,
+463149,South Africa,India,09-01-2011,India,bat,RG Sharma,21,
+463150,South Africa,India,12-01-2011,South Africa,bat,LL Tsotsobe,135,
+463151,South Africa,India,15-01-2011,India,bat,MM Patel,1,
+463152,South Africa,India,18-01-2011,South Africa,bat,YK Pathan,,2
+463153,South Africa,India,21-01-2011,South Africa,bat,JP Duminy,48,
+463154,South Africa,India,23-01-2011,India,field,HM Amla,33,
+464529,India,Australia,20-10-2010,India,field,V Kohli,,5
+464720,Ireland,Netherlands,18-08-2010,Netherlands,bat,,,9
+464723,Canada,Ireland,06-09-2010,Ireland,bat,R Gunasekera,4,
+464990,Sri Lanka,West Indies,31-01-2011,West Indies,bat,,,
+464991,Sri Lanka,West Indies,03-02-2011,Sri Lanka,field,WU Tharanga,,8
+464992,Sri Lanka,West Indies,06-02-2011,West Indies,field,KC Sangakkara,26,
+467078,Nepal,United States of America,14-08-2010,United States of America,field,,,
+467080,Argentina,Tanzania,14-08-2010,Tanzania,field,,,
+467084,Italy,Argentina,17-08-2010,Italy,bat,AM Northcote,60,
+467089,Argentina,Nepal,18-08-2010,Argentina,bat,AK Mandal,,8
+467090,Argentina,United States of America,20-08-2010,United States of America,bat,A Thyagarajan,196,
+467091,Cayman Islands,Nepal,20-08-2010,Cayman Islands,bat,B Regmi,,7
+467092,Italy,Tanzania,20-08-2010,Italy,bat,PA Petricola,167,
+467093,Italy,United States of America,21-08-2010,Italy,bat,LJ Cush,,8
+467095,Argentina,Cayman Islands,21-08-2010,Argentina,bat,RA Sealy,,7
+467883,India,New Zealand,28-11-2010,New Zealand,field,V Kohli,40,
+467884,India,New Zealand,01-12-2010,India,field,G Gambhir,,8
+467885,India,New Zealand,04-12-2010,India,field,G Gambhir,,9
+467886,India,New Zealand,07-12-2010,India,field,YK Pathan,,5
+467887,India,New Zealand,10-12-2010,New Zealand,bat,Yuvraj Singh,,8
+473029,Nepal,United States of America,19-08-2010,United States of America,bat,SS Nadkarni,55,
+473923,New Zealand,Pakistan,22-01-2011,Pakistan,bat,TG Southee,,9
+473924,New Zealand,Pakistan,26-01-2011,New Zealand,field,,,
+473925,New Zealand,Pakistan,29-01-2011,New Zealand,field,Mohammad Hafeez,43,
+473926,New Zealand,Pakistan,01-02-2011,New Zealand,bat,Misbah-ul-Haq,,2
+473927,New Zealand,Pakistan,03-02-2011,New Zealand,field,Ahmed Shehzad,41,
+473928,New Zealand,Pakistan,05-02-2011,Pakistan,field,JD Ryder,57,
+474467,England,Sri Lanka,28-06-2011,Sri Lanka,field,JM Anderson,110,
+474468,England,Sri Lanka,01-07-2011,England,field,DPMD Jayawardene,69,
+474469,England,Sri Lanka,03-07-2011,England,bat,LD Chandimal,,6
+474470,England,Sri Lanka,06-07-2011,England,field,AN Cook,,10
+474477,England,India,03-09-2011,England,field,,,
+474478,England,India,06-09-2011,England,field,AN Cook,,7
+474480,England,India,11-09-2011,England,field,SK Raina,,
+476596,Bangladesh,New Zealand,05-10-2010,Bangladesh,bat,Shakib Al Hasan,9,
+476598,Bangladesh,New Zealand,11-10-2010,Bangladesh,field,Suhrawadi Shuvo,,7
+476599,Bangladesh,New Zealand,14-10-2010,New Zealand,field,Shakib Al Hasan,9,
+476600,Bangladesh,New Zealand,17-10-2010,Bangladesh,bat,Rubel Hossain,3,
+483126,Ireland,England,25-08-2011,Ireland,field,EJG Morgan,11,
+486520,Bangladesh,Zimbabwe,01-12-2010,Bangladesh,field,CB Mpofu,9,
+486522,Bangladesh,Zimbabwe,03-12-2010,Bangladesh,field,Abdur Razzak,,6
+486523,Bangladesh,Zimbabwe,06-12-2010,Zimbabwe,field,Abdur Razzak,65,
+486526,Bangladesh,Zimbabwe,12-12-2010,Zimbabwe,bat,Tamim Iqbal,,6
+489212,West Indies,Pakistan,21-04-2011,West Indies,bat,D Bishoo,7,
+489213,West Indies,Pakistan,23-04-2011,West Indies,bat,Mohammad Hafeez,,8
+489214,West Indies,Pakistan,25-04-2011,Pakistan,field,Ahmed Shehzad,,7
+489215,West Indies,Pakistan,28-04-2011,Pakistan,field,Misbah-ul-Haq,,3
+489216,West Indies,Pakistan,02-05-2011,West Indies,field,Mohammad Hafeez,1,
+489217,West Indies,Pakistan,05-05-2011,Pakistan,bat,LMP Simmons,,10
+489220,West Indies,India,04-06-2011,West Indies,field,S Badrinath,16,
+489221,West Indies,India,06-06-2011,West Indies,bat,RG Sharma,,4
+489222,West Indies,India,08-06-2011,India,field,V Kohli,,7
+489223,West Indies,India,11-06-2011,India,field,AD Russell,,3
+489224,West Indies,India,13-06-2011,India,field,A Martin,103,
+489225,West Indies,India,16-06-2011,West Indies,field,AD Russell,,7
+501204,Rajasthan Royals,Delhi Daredevils,12-04-2011,Delhi Daredevils,bat,SK Warne,,6
+501205,Royal Challengers Bangalore,Mumbai Indians,12-04-2011,Mumbai Indians,field,SR Tendulkar,,9
+501207,Pune Warriors,Kochi Tuskers Kerala,13-04-2011,Kochi Tuskers Kerala,bat,MD Mishra,,4
+501209,Rajasthan Royals,Kolkata Knight Riders,15-04-2011,Kolkata Knight Riders,field,G Gambhir,,9
+501213,Pune Warriors,Delhi Daredevils,17-04-2011,Delhi Daredevils,field,Yuvraj Singh,,3
+501221,Mumbai Indians,Chennai Super Kings,22-04-2011,Chennai Super Kings,field,Harbhajan Singh,8,
+501222,Kolkata Knight Riders,Royal Challengers Bangalore,22-04-2011,Royal Challengers Bangalore,field,CH Gayle,,9
+501223,Delhi Daredevils,Kings XI Punjab,23-04-2011,Kings XI Punjab,field,DA Warner,29,
+501227,Delhi Daredevils,Royal Challengers Bangalore,26-04-2011,Royal Challengers Bangalore,field,V Kohli,,3
+501249,Rajasthan Royals,Chennai Super Kings,09-05-2011,Rajasthan Royals,field,M Vijay,63,
+501262,Pune Warriors,Kolkata Knight Riders,19-05-2011,Kolkata Knight Riders,field,YK Pathan,,7
+503363,Bangladesh,Australia,09-04-2011,Bangladesh,field,MJ Clarke,60,
+503364,Bangladesh,Australia,11-04-2011,Bangladesh,bat,SR Watson,,9
+503365,Bangladesh,Australia,13-04-2011,Australia,bat,MEK Hussey,66,
+504779,Scotland,Netherlands,29-06-2011,Scotland,field,,,5
+514025,South Africa,Australia,19-10-2011,South Africa,field,RT Ponting,93,
+514026,South Africa,Australia,23-10-2011,South Africa,bat,M Morkel,80,
+514027,South Africa,Australia,28-10-2011,South Africa,bat,SR Watson,,3
+514035,South Africa,Sri Lanka,11-01-2012,South Africa,bat,M Morkel,258,
+514036,South Africa,Sri Lanka,14-01-2012,South Africa,field,JP Duminy,,5
+514037,South Africa,Sri Lanka,17-01-2012,Sri Lanka,bat,F du Plessis,4,
+514038,South Africa,Sri Lanka,20-01-2012,South Africa,bat,NLTC Perera,,5
+514039,South Africa,Sri Lanka,22-01-2012,Sri Lanka,field,KC Sangakkara,,2
+516206,Sri Lanka,Australia,10-08-2011,Sri Lanka,bat,MG Johnson,,7
+516207,Sri Lanka,Australia,14-08-2011,Sri Lanka,bat,RT Ponting,,8
+516208,Sri Lanka,Australia,16-08-2011,Australia,field,WU Tharanga,78,
+516209,Sri Lanka,Australia,20-08-2011,Sri Lanka,bat,XJ Doherty,,5
+516210,Sri Lanka,Australia,22-08-2011,Sri Lanka,field,SL Malinga,,4
+518956,Australia,India,05-02-2012,India,field,MS Wade,65,
+518957,India,Sri Lanka,08-02-2012,Sri Lanka,bat,R Ashwin,,4
+518958,Australia,Sri Lanka,10-02-2012,Sri Lanka,field,MJ Clarke,5,
+518959,Australia,India,12-02-2012,Australia,bat,G Gambhir,,4
+518960,India,Sri Lanka,14-02-2012,Sri Lanka,bat,MS Dhoni,,
+518961,Australia,Sri Lanka,17-02-2012,Australia,bat,NLTC Perera,,8
+518962,Australia,India,19-02-2012,Australia,bat,BW Hilfenhaus,110,
+518964,Australia,Sri Lanka,24-02-2012,Australia,bat,DPMD Jayawardene,,3
+518965,Australia,India,26-02-2012,Australia,bat,DA Warner,87,
+518966,India,Sri Lanka,28-02-2012,India,field,V Kohli,,7
+518967,Australia,Sri Lanka,02-03-2012,Sri Lanka,bat,LD Chandimal,9,
+518968,Australia,Sri Lanka,04-03-2012,Australia,bat,DA Warner,15,
+518969,Australia,Sri Lanka,06-03-2012,Australia,bat,TM Dilshan,,8
+518970,Australia,Sri Lanka,08-03-2012,Sri Lanka,field,CJ McKay,16,
+520592,New Zealand,Zimbabwe,03-02-2012,Zimbabwe,field,MJ Guptill,90,
+520593,New Zealand,Zimbabwe,06-02-2012,Zimbabwe,field,RJ Nicol,141,
+520594,New Zealand,Zimbabwe,09-02-2012,New Zealand,bat,BB McCullum,202,
+520600,New Zealand,South Africa,25-02-2012,New Zealand,bat,AB de Villiers,,6
+520601,New Zealand,South Africa,29-02-2012,South Africa,field,M Morkel,,6
+520602,New Zealand,South Africa,03-03-2012,South Africa,field,M de Lange,,5
+521218,India,England,14-10-2011,India,bat,MS Dhoni,126,
+521219,India,England,17-10-2011,England,bat,V Kohli,,8
+521220,India,England,20-10-2011,England,bat,AM Rahane,,5
+521221,India,England,23-10-2011,England,bat,SK Raina,,6
+521222,India,England,25-10-2011,England,field,RA Jadeja,95,
+522246,Zimbabwe,Bangladesh,12-08-2011,Zimbabwe,field,BV Vitori,,4
+522247,Zimbabwe,Bangladesh,14-08-2011,Zimbabwe,field,BV Vitori,,7
+522248,Zimbabwe,Bangladesh,16-08-2011,Bangladesh,field,Mushfiqur Rahim,5,
+522249,Zimbabwe,Bangladesh,19-08-2011,Bangladesh,field,Rubel Hossain,,6
+522250,Zimbabwe,Bangladesh,21-08-2011,Zimbabwe,field,Shakib Al Hasan,93,
+523732,Zimbabwe,Pakistan,08-09-2011,Pakistan,bat,Younis Khan,5,
+523733,Zimbabwe,Pakistan,11-09-2011,Zimbabwe,bat,Mohammad Hafeez,,10
+523734,Zimbabwe,Pakistan,14-09-2011,Zimbabwe,field,Aizaz Cheema,28,
+523804,Ireland,Canada,19-09-2011,Canada,field,,133,
+523805,Ireland,Canada,20-09-2011,Ireland,bat,,56,
+524922,Sydney Thunder,Adelaide Strikers,23-12-2011,Adelaide Strikers,bat,CH Gayle,,6
+524927,Hobart Hurricanes,Sydney Thunder,01-01-2012,Sydney Thunder,bat,Naved-ul-Hasan,,5
+524938,Melbourne Renegades,Brisbane Heat,12-01-2012,Brisbane Heat,bat,DL Vettori,12,
+524941,Sydney Sixers,Perth Scorchers,18-01-2012,Sydney Sixers,bat,MA Starc,1,
+527014,Zimbabwe,New Zealand,20-10-2011,Zimbabwe,bat,RJ Nicol,,9
+527015,Zimbabwe,New Zealand,22-10-2011,New Zealand,field,MJ Guptill,,4
+527016,Zimbabwe,New Zealand,25-10-2011,New Zealand,bat,MN Waller,,1
+527679,South Africa,England,21-10-2011,South Africa,field,LS Greenway,62,
+527680,South Africa,England,23-10-2011,South Africa,field,CM Edwards,96,
+527681,South Africa,England,25-10-2011,England,field,HC Knight,,5
+530427,Pakistan,Sri Lanka,11-11-2011,Sri Lanka,bat,Shahid Afridi,,8
+530428,Pakistan,Sri Lanka,14-11-2011,Sri Lanka,bat,SL Malinga,25,
+530429,Pakistan,Sri Lanka,18-11-2011,Pakistan,bat,Mohammad Hafeez,21,
+530430,Pakistan,Sri Lanka,20-11-2011,Pakistan,bat,Shahid Afridi,26,
+530431,Pakistan,Sri Lanka,23-11-2011,Sri Lanka,bat,Umar Akmal,,3
+531631,England,Pakistan,13-02-2012,England,bat,AN Cook,130,
+531632,England,Pakistan,15-02-2012,England,bat,AN Cook,20,
+531633,England,Pakistan,18-02-2012,Pakistan,bat,KP Pietersen,,9
+531634,England,Pakistan,21-02-2012,Pakistan,bat,KP Pietersen,,4
+531983,Bangladesh,West Indies,13-10-2011,Bangladesh,field,LMP Simmons,40,
+531984,Bangladesh,West Indies,15-10-2011,Bangladesh,bat,MN Samuels,,8
+531985,Bangladesh,West Indies,18-10-2011,Bangladesh,field,Shakib Al Hasan,,8
+533273,Australia,Ireland,19-09-2012,Ireland,bat,SR Watson,,7
+533274,Afghanistan,India,19-09-2012,Afghanistan,field,V Kohli,23,
+533280,New Zealand,Pakistan,23-09-2012,Pakistan,bat,Nasir Jamshed,13,
+533281,England,India,23-09-2012,England,field,Harbhajan Singh,90,
+533307,South Africa,West Indies,30-09-2012,West Indies,field,SR Taylor,,10
+533309,India,Pakistan,01-10-2012,Pakistan,bat,Nida Dar,1,
+534208,England,West Indies,24-06-2012,West Indies,bat,AD Hales,,7
+534209,England,West Indies,16-06-2012,West Indies,field,IR Bell,114,
+534210,England,West Indies,19-06-2012,England,field,AN Cook,,8
+534214,Ireland,Australia,23-06-2012,Australia,field,,,
+534215,England,Australia,29-06-2012,Australia,field,EJG Morgan,15,
+534216,England,Australia,01-07-2012,Australia,bat,RS Bopara,,6
+534218,England,Australia,07-07-2012,England,field,ST Finn,,8
+534219,England,Australia,10-07-2012,England,field,RS Bopara,,7
+534229,England,South Africa,28-08-2012,South Africa,bat,HM Amla,80,
+534230,England,South Africa,31-08-2012,South Africa,bat,EJG Morgan,,4
+534231,England,South Africa,02-09-2012,England,field,IR Bell,,6
+534232,England,South Africa,05-09-2012,England,bat,HM Amla,,7
+535794,Bangladesh,Pakistan,11-03-2012,Bangladesh,field,Mohammad Hafeez,21,
+535796,Pakistan,Sri Lanka,15-03-2012,Sri Lanka,bat,Aizaz Cheema,,6
+535799,Bangladesh,Sri Lanka,20-03-2012,Bangladesh,field,Shakib Al Hasan,,5
+536929,India,West Indies,29-11-2011,India,field,RG Sharma,,1
+536930,India,West Indies,02-12-2011,India,field,V Kohli,,5
+536931,India,West Indies,05-12-2011,India,field,R Rampaul,16,
+536932,India,West Indies,08-12-2011,India,bat,V Sehwag,153,
+536933,India,West Indies,11-12-2011,India,bat,MK Tiwary,34,
+538068,Bangladesh,Pakistan,29-11-2011,Pakistan,bat,Mohammad Hafeez,50,
+538069,Bangladesh,Pakistan,01-12-2011,Bangladesh,bat,Shahid Afridi,,5
+538070,Bangladesh,Pakistan,03-12-2011,Pakistan,bat,Nasir Hossain,76,
+538071,Bangladesh,Pakistan,06-12-2011,Pakistan,bat,Umar Akmal,58,
+540168,West Indies,Australia,16-03-2012,Australia,bat,GJ Bailey,64,
+540169,West Indies,Australia,18-03-2012,West Indies,field,SP Narine,,5
+540170,West Indies,Australia,20-03-2012,Australia,bat,MEK Hussey,,
+540171,West Indies,Australia,23-03-2012,Australia,field,KA Pollard,42,
+540172,West Indies,Australia,25-03-2012,West Indies,field,DJG Sammy,30,
+542852,England,India,01-07-2012,England,bat,M Raj,,5
+542853,England,India,04-07-2012,England,field,A Sharma,14,
+542854,England,India,05-07-2012,England,field,M Raj,,3
+542856,England,India,11-07-2012,England,field,GA Elwiss,29,
+543881,Kenya,Ireland,18-02-2012,Ireland,bat,T Mishra,,7
+543888,Afghanistan,Netherlands,29-03-2012,Afghanistan,bat,,,9
+545656,Afghanistan,Pakistan,10-02-2012,Afghanistan,bat,Shahid Afridi,,7
+546443,Afghanistan,Canada,18-03-2012,Afghanistan,bat,Samiullah Shenwari,41,
+548311,Deccan Chargers,Chennai Super Kings,07-04-2012,Deccan Chargers,field,RA Jadeja,74,
+548314,Deccan Chargers,Mumbai Indians,09-04-2012,Deccan Chargers,bat,RG Sharma,,5
+548320,Kolkata Knight Riders,Rajasthan Royals,13-04-2012,Rajasthan Royals,bat,Shakib Al Hasan,,5
+548334,Mumbai Indians,Kings XI Punjab,22-04-2012,Mumbai Indians,bat,SE Marsh,,6
+548336,Rajasthan Royals,Royal Challengers Bangalore,23-04-2012,Rajasthan Royals,field,AB de Villiers,46,
+548350,Royal Challengers Bangalore,Kings XI Punjab,02-05-2012,Kings XI Punjab,field,Azhar Mahmood,,4
+548356,Royal Challengers Bangalore,Deccan Chargers,06-05-2012,Royal Challengers Bangalore,field,AB de Villiers,,5
+548357,Delhi Daredevils,Kolkata Knight Riders,07-05-2012,Delhi Daredevils,bat,JH Kallis,,6
+548375,Pune Warriors,Kolkata Knight Riders,19-05-2012,Kolkata Knight Riders,bat,Shakib Al Hasan,34,
+548376,Deccan Chargers,Royal Challengers Bangalore,20-05-2012,Royal Challengers Bangalore,field,DW Steyn,9,
+548379,Chennai Super Kings,Mumbai Indians,23-05-2012,Mumbai Indians,field,MS Dhoni,38,
+548381,Kolkata Knight Riders,Chennai Super Kings,27-05-2012,Chennai Super Kings,bat,MS Bisla,,5
+555892,Ireland,Afghanistan,05-07-2012,Afghanistan,field,,59,
+560923,West Indies,New Zealand,05-07-2012,West Indies,field,AD Russell,,9
+560924,West Indies,New Zealand,07-07-2012,New Zealand,field,MN Samuels,55,
+560925,West Indies,New Zealand,11-07-2012,West Indies,field,RJ Nicol,88,
+560926,West Indies,New Zealand,14-07-2012,West Indies,bat,SP Narine,24,
+560927,West Indies,New Zealand,16-07-2012,West Indies,bat,SP Narine,20,
+562439,Sri Lanka,Pakistan,07-06-2012,Sri Lanka,bat,Umar Gul,,6
+562440,Sri Lanka,Pakistan,09-06-2012,Sri Lanka,bat,NLTC Perera,76,
+562441,Sri Lanka,Pakistan,13-06-2012,Pakistan,bat,,,
+562442,Sri Lanka,Pakistan,16-06-2012,Sri Lanka,bat,NLTC Perera,44,
+562443,Sri Lanka,Pakistan,18-06-2012,Pakistan,bat,AD Mathews,,2
+564781,Sri Lanka,India,21-07-2012,India,bat,V Kohli,21,
+564782,Sri Lanka,India,24-07-2012,India,bat,NLTC Perera,,9
+564783,Sri Lanka,India,28-07-2012,Sri Lanka,bat,SK Raina,,5
+564784,Sri Lanka,India,31-07-2012,Sri Lanka,bat,V Kohli,,6
+564785,Sri Lanka,India,04-08-2012,India,bat,IK Pathan,20,
+565812,India,England,11-01-2013,England,bat,JC Tredwell,9,
+565813,India,England,15-01-2013,India,bat,RA Jadeja,127,
+565814,India,England,19-01-2013,India,field,V Kohli,,7
+565815,India,England,23-01-2013,India,field,SK Raina,,5
+565816,India,England,27-01-2013,England,field,IR Bell,,7
+566923,England,New Zealand,31-05-2013,New Zealand,field,MJ Guptill,,5
+566924,England,New Zealand,02-06-2013,New Zealand,bat,MJ Guptill,86,
+566940,Ireland,England,03-09-2013,England,field,EJG Morgan,,6
+566942,England,Australia,08-09-2013,England,field,MJ Clarke,88,
+566943,England,Australia,11-09-2013,Australia,field,,,
+566944,England,Australia,14-09-2013,England,field,JC Buttler,,3
+566945,England,Australia,16-09-2013,Australia,bat,SR Watson,49,
+566946,England,South Africa,19-06-2013,England,field,JC Tredwell,,7
+566947,India,Sri Lanka,20-06-2013,India,field,I Sharma,,8
+567358,South Africa,New Zealand,19-01-2013,New Zealand,field,JEC Franklin,,1
+567359,South Africa,New Zealand,22-01-2013,South Africa,field,KS Williamson,27,
+567360,South Africa,New Zealand,25-01-2013,New Zealand,bat,GC Smith,,1
+567368,South Africa,Pakistan,10-03-2013,Pakistan,field,CA Ingram,125,
+567369,South Africa,Pakistan,15-03-2013,South Africa,bat,Mohammad Irfan,,6
+567370,South Africa,Pakistan,17-03-2013,Pakistan,field,AB de Villiers,34,
+567371,South Africa,Pakistan,21-03-2013,South Africa,bat,Misbah-ul-Haq,,3
+567372,South Africa,Pakistan,24-03-2013,Pakistan,bat,AB de Villiers,,6
+569240,New Zealand,England,17-02-2013,New Zealand,field,BB McCullum,,3
+569241,New Zealand,England,20-02-2013,England,field,,,8
+569242,New Zealand,England,23-02-2013,England,field,,,5
+571145,Australia,Pakistan,28-08-2012,Pakistan,bat,MA Starc,,4
+571146,Australia,Pakistan,31-08-2012,Australia,bat,Nasir Jamshed,,7
+571147,Australia,Pakistan,03-09-2012,Australia,field,MEK Hussey,,3
+571242,Melbourne Renegades,Hobart Hurricanes,19-12-2012,Melbourne Renegades,field,MN Samuels,,7
+571264,Melbourne Renegades,Brisbane Heat,04-02-2013,Brisbane Heat,bat,LA Pomersbach,15,
+571947,Afghanistan,Australia,25-08-2012,Australia,bat,MA Starc,66,
+573014,Australia,Sri Lanka,11-01-2013,Australia,bat,PJ Hughes,107,
+573015,Australia,Sri Lanka,13-01-2013,Sri Lanka,field,HDRL Thirimanne,,8
+573016,Australia,Sri Lanka,18-01-2013,Australia,bat,KMDN Kulasekara,,4
+573017,Australia,Sri Lanka,20-01-2013,Australia,bat,,,
+573018,Australia,Sri Lanka,23-01-2013,Sri Lanka,field,PJ Hughes,32,
+573022,Australia,West Indies,01-02-2013,West Indies,bat,MA Starc,,9
+573023,Australia,West Indies,03-02-2013,West Indies,field,GJ Bailey,54,
+573024,Australia,West Indies,06-02-2013,Australia,bat,SR Watson,39,
+573025,Australia,West Indies,08-02-2013,West Indies,bat,KA Pollard,,5
+573026,Australia,West Indies,10-02-2013,West Indies,field,AC Voges,17,
+576402,Denmark,Tanzania,03-09-2012,Denmark,bat,Aftab Ahmed,88,
+576403,Nepal,Singapore,03-09-2012,Singapore,bat,A Bhattarai,,5
+576406,Denmark,United States of America,04-09-2012,United States of America,field,MR Pedersen,56,
+576407,Nepal,Tanzania,04-09-2012,Tanzania,bat,P Khadka,,8
+576408,Tanzania,United States of America,06-09-2012,United States of America,field,Usman Shuja,,7
+576409,Malaysia,Nepal,06-09-2012,Malaysia,bat,SP Gauchan,,10
+576410,Denmark,Singapore,06-09-2012,Denmark,bat,M Arora,,4
+576411,Nepal,United States of America,07-09-2012,Nepal,bat,SP Khakurel,32,
+576412,Singapore,Tanzania,07-09-2012,Singapore,field,Abhiraj Singh,,8
+576414,Denmark,Nepal,09-09-2012,Nepal,bat,AK Mandal,25,
+576416,Singapore,United States of America,09-09-2012,United States of America,bat,TP Allen,37,
+576418,Denmark,Singapore,10-09-2012,Denmark,bat,CR Suryawanshi,,5
+578614,India,South Africa,06-06-2013,South Africa,field,S Dhawan,26,
+578615,Pakistan,West Indies,07-06-2013,West Indies,field,KAJ Roach,,2
+578617,New Zealand,Sri Lanka,09-06-2013,Sri Lanka,bat,NL McCullum,,1
+578618,Pakistan,South Africa,10-06-2013,South Africa,bat,HM Amla,67,
+578619,India,West Indies,11-06-2013,India,field,RA Jadeja,,8
+578621,England,Sri Lanka,13-06-2013,Sri Lanka,field,KC Sangakkara,,7
+578622,South Africa,West Indies,14-06-2013,West Indies,field,CA Ingram,,
+578623,India,Pakistan,15-06-2013,India,field,B Kumar,,8
+578624,England,New Zealand,16-06-2013,New Zealand,field,AN Cook,10,
+578625,Australia,Sri Lanka,17-06-2013,Australia,field,DPMD Jayawardene,20,
+579741,Ghana,Vanuatu,17-09-2012,Ghana,bat,A Mansale,,5
+579743,Bhutan,Japan,17-09-2012,Japan,bat,A Patmore,60,
+579751,Samoa,Bhutan,20-09-2012,Bhutan,bat,T Kaisala,,6
+579753,Ghana,Vanuatu,22-09-2012,Vanuatu,bat,J Dunn,39,
+579754,Belgium,Japan,22-09-2012,Japan,bat,A Patmore,10,
+579755,Samoa,Norway,22-09-2012,Samoa,field,Tafseer Ali,134,
+582188,Sri Lanka,New Zealand,04-11-2012,New Zealand,bat,SL Malinga,14,
+582189,Sri Lanka,New Zealand,06-11-2012,Sri Lanka,field,TM Dilshan,,7
+582190,Sri Lanka,New Zealand,10-11-2012,Sri Lanka,field,BMAJ Mendis,,7
+582191,Sri Lanka,New Zealand,12-11-2012,New Zealand,field,,,
+584546,Australia,New Zealand,12-12-2012,Australia,bat,SW Bates,,8
+584547,Australia,New Zealand,14-12-2012,Australia,field,AE Satterthwaite,,4
+584549,Australia,New Zealand,19-12-2012,Australia,bat,AE Satterthwaite,7,
+584928,Bangladesh,Pakistan,30-10-2012,Pakistan,field,Nida Dar,,6
+587471,Bangladesh,West Indies,30-11-2012,West Indies,bat,Sohag Gazi,,7
+587472,Bangladesh,West Indies,02-12-2012,West Indies,field,Anamul Haque,160,
+587473,Bangladesh,West Indies,05-12-2012,West Indies,field,MN Samuels,,4
+587474,Bangladesh,West Indies,07-12-2012,Bangladesh,field,DJG Sammy,75,
+587475,Bangladesh,West Indies,08-12-2012,Bangladesh,field,Mahmudullah,,2
+589308,India,Pakistan,30-12-2012,Pakistan,field,MS Dhoni,,6
+589309,India,Pakistan,03-01-2013,India,field,Nasir Jamshed,85,
+589310,India,Pakistan,06-01-2013,India,bat,MS Dhoni,10,
+592266,Canada,Kenya,11-03-2013,Canada,bat,E Otieno,,6
+593723,England,Australia,20-08-2013,Australia,bat,EA Osborne,27,
+593724,England,Australia,23-08-2013,England,bat,A Shrubsole,51,
+593725,England,Australia,25-08-2013,Australia,bat,SJ Taylor,,5
+593983,West Indies,Zimbabwe,22-02-2013,Zimbabwe,field,J Charles,156,
+593985,West Indies,Zimbabwe,26-02-2013,Zimbabwe,bat,DM Bravo,,5
+594894,England,Sri Lanka,01-02-2013,Sri Lanka,field,LE Kaushalya,,1
+594901,India,Sri Lanka,05-02-2013,Sri Lanka,bat,HMD Rasangika,138,
+594904,Australia,England,08-02-2013,England,field,LC Sthalekar,2,
+594907,Australia,Sri Lanka,10-02-2013,Australia,field,EA Osborne,,9
+594909,New Zealand,West Indies,11-02-2013,New Zealand,field,A Mohammed,48,
+594912,England,New Zealand,13-02-2013,England,bat,SJ Taylor,15,
+594914,England,New Zealand,15-02-2013,England,field,CM Edwards,,4
+594915,Australia,West Indies,17-02-2013,Australia,bat,JE Cameron,114,
+597923,West Indies,Sri Lanka,28-06-2013,West Indies,field,CH Gayle,,6
+597924,West Indies,India,30-06-2013,West Indies,field,J Charles,,1
+597925,India,Sri Lanka,02-07-2013,India,field,WU Tharanga,161,
+597926,West Indies,India,05-07-2013,West Indies,field,V Kohli,102,
+597928,India,Sri Lanka,09-07-2013,Sri Lanka,field,B Kumar,81,
+597929,India,Sri Lanka,11-07-2013,India,field,MS Dhoni,,1
+598005,Rajasthan Royals,Kolkata Knight Riders,08-04-2013,Kolkata Knight Riders,field,SK Trivedi,19,
+598015,Chennai Super Kings,Pune Warriors,15-04-2013,Pune Warriors,bat,SPD Smith,24,
+598018,Pune Warriors,Sunrisers Hyderabad,17-04-2013,Pune Warriors,field,A Mishra,11,
+598020,Delhi Daredevils,Chennai Super Kings,18-04-2013,Chennai Super Kings,bat,MEK Hussey,86,
+598032,Rajasthan Royals,Sunrisers Hyderabad,27-04-2013,Sunrisers Hyderabad,bat,JP Faulkner,,8
+598037,Mumbai Indians,Kings XI Punjab,29-04-2013,Mumbai Indians,bat,RG Sharma,4,
+598039,Sunrisers Hyderabad,Mumbai Indians,01-05-2013,Mumbai Indians,bat,I Sharma,,7
+598043,Kolkata Knight Riders,Rajasthan Royals,03-05-2013,Rajasthan Royals,bat,YK Pathan,,8
+598047,Rajasthan Royals,Pune Warriors,05-05-2013,Pune Warriors,bat,AM Rahane,,5
+598050,Mumbai Indians,Kolkata Knight Riders,07-05-2013,Mumbai Indians,bat,SR Tendulkar,65,
+598051,Sunrisers Hyderabad,Chennai Super Kings,08-05-2013,Sunrisers Hyderabad,field,SK Raina,77,
+598052,Kings XI Punjab,Rajasthan Royals,09-05-2013,Rajasthan Royals,field,KK Cooper,,8
+598072,Mumbai Indians,Rajasthan Royals,24-05-2013,Rajasthan Royals,bat,Harbhajan Singh,,4
+601077,Scotland,Pakistan,17-05-2013,Pakistan,bat,Misbah-ul-Haq,96,
+601612,Ireland,Pakistan,23-05-2013,Pakistan,bat,KJ O'Brien,,
+601613,Ireland,Pakistan,26-05-2013,Pakistan,field,Kamran Akmal,,2
+602474,Sri Lanka,Bangladesh,23-03-2013,Sri Lanka,field,TM Dilshan,,8
+602475,Sri Lanka,Bangladesh,25-03-2013,Bangladesh,field,,,
+602476,Sri Lanka,Bangladesh,28-03-2013,Sri Lanka,bat,TM Dilshan,,3
+603239,Sri Lanka,West Indies,22-02-2013,Sri Lanka,bat,,,4
+603240,Sri Lanka,West Indies,24-02-2013,West Indies,bat,,,4
+603241,Sri Lanka,West Indies,26-02-2013,Sri Lanka,field,,33,
+623573,Zimbabwe,Bangladesh,03-05-2013,Zimbabwe,field,Ziaur Rahman,121,
+623574,Zimbabwe,Bangladesh,05-05-2013,Zimbabwe,field,SC Williams,,6
+623575,Zimbabwe,Bangladesh,08-05-2013,Zimbabwe,field,V Sibanda,,7
+627006,England,Pakistan,01-07-2013,England,bat,JL Gunn,111,
+627007,England,Pakistan,03-07-2013,Pakistan,bat,NR Sciver,,6
+628081,Nepal,United States of America,28-04-2013,Nepal,field,Steven Ryan Taylor,94,
+628083,Bermuda,Oman,29-04-2013,Oman,field,,34,
+628086,Bermuda,Nepal,01-05-2013,Nepal,field,P Khadka,,8
+628090,Bermuda,Italy,02-05-2013,Bermuda,bat,LOB Cann,60,
+628092,Italy,Nepal,04-05-2013,Nepal,field,RK Vishwakarma,,8
+628093,Oman,Uganda,04-05-2013,Uganda,bat,Zeeshan Siddiqui,,7
+628095,Italy,Oman,05-05-2013,Italy,bat,Amir Ali,,5
+628096,Nepal,Uganda,05-05-2013,Uganda,bat,PS Airee,,5
+631138,Netherlands,Ireland,07-07-2013,Ireland,bat,KJ O'Brien,88,
+635653,Sri Lanka,South Africa,20-07-2013,South Africa,field,KC Sangakkara,180,
+635654,Sri Lanka,South Africa,23-07-2013,Sri Lanka,bat,LD Chandimal,17,
+635655,Sri Lanka,South Africa,26-07-2013,South Africa,bat,DA Miller,56,
+635656,Sri Lanka,South Africa,28-07-2013,South Africa,bat,TM Dilshan,,8
+635657,Sri Lanka,South Africa,31-07-2013,Sri Lanka,bat,TM Dilshan,128,
+636159,Australia,England,12-01-2014,England,bat,AJ Finch,,6
+636160,Australia,England,17-01-2014,England,bat,JP Faulkner,,1
+636161,Australia,England,19-01-2014,England,bat,DA Warner,,7
+636162,Australia,England,24-01-2014,Australia,field,BA Stokes,57,
+636163,Australia,England,26-01-2014,Australia,bat,JP Faulkner,5,
+636533,West Indies,England,28-02-2014,England,field,DJ Bravo,15,
+636534,West Indies,England,02-03-2014,England,field,SD Parry,,3
+636535,West Indies,England,05-03-2014,West Indies,field,JE Root,25,
+640943,Canada,Japan,27-07-2013,Canada,field,D Shabbir,,5
+643665,Zimbabwe,India,24-07-2013,India,field,V Kohli,,6
+643667,Zimbabwe,India,26-07-2013,Zimbabwe,field,S Dhawan,58,
+643669,Zimbabwe,India,28-07-2013,India,field,A Mishra,,7
+643675,Zimbabwe,India,01-08-2013,India,field,MM Sharma,,9
+643677,Zimbabwe,India,03-08-2013,India,field,A Mishra,,7
+644943,Ireland,Pakistan,17-07-2013,Pakistan,bat,,157,
+644945,Ireland,Pakistan,19-07-2013,Pakistan,bat,,89,
+645635,West Indies,Pakistan,14-07-2013,West Indies,field,Shahid Afridi,126,
+645637,West Indies,Pakistan,16-07-2013,Pakistan,field,SP Narine,37,
+645639,West Indies,Pakistan,19-07-2013,West Indies,field,LMP Simmons,,
+645641,West Indies,Pakistan,21-07-2013,Pakistan,field,MN Samuels,,6
+645643,West Indies,Pakistan,24-07-2013,Pakistan,field,Misbah-ul-Haq,,4
+647249,India,Australia,13-10-2013,Australia,bat,GJ Bailey,72,
+647251,India,Australia,16-10-2013,Australia,bat,RG Sharma,,9
+647253,India,Australia,19-10-2013,Australia,field,JP Faulkner,,4
+647255,India,Australia,23-10-2013,India,field,,,
+647259,India,Australia,30-10-2013,India,field,V Kohli,,6
+647261,India,Australia,02-11-2013,Australia,field,RG Sharma,57,
+648651,South Africa,India,05-12-2013,India,field,Q de Kock,141,
+648653,South Africa,India,08-12-2013,India,field,Q de Kock,134,
+648655,South Africa,India,11-12-2013,South Africa,bat,,,
+649091,Pakistan,South Africa,30-10-2013,South Africa,bat,WD Parnell,1,
+649093,Pakistan,South Africa,01-11-2013,Pakistan,bat,Shahid Afridi,66,
+649095,Pakistan,South Africa,06-11-2013,South Africa,bat,F du Plessis,68,
+649097,Pakistan,South Africa,08-11-2013,South Africa,bat,DW Steyn,28,
+649099,Pakistan,South Africa,11-11-2013,South Africa,bat,AB de Villiers,117,
+654065,Sydney Thunder,Brisbane Heat,08-01-2014,Brisbane Heat,bat,CA Lynn,48,
+654067,Melbourne Stars,Adelaide Strikers,09-01-2014,Adelaide Strikers,bat,JP Faulkner,,8
+654077,Sydney Sixers,Hobart Hurricanes,15-01-2014,Sydney Sixers,bat,SPD Smith,7,
+654097,Sydney Sixers,Perth Scorchers,05-02-2014,Sydney Sixers,field,CJ Simmons,5,
+654099,Perth Scorchers,Hobart Hurricanes,07-02-2014,Perth Scorchers,bat,GB Hogg,39,
+656399,New Zealand,Sri Lanka,14-02-2015,Sri Lanka,field,CJ Anderson,98,
+656401,Australia,England,14-02-2015,England,field,AJ Finch,111,
+656405,India,Pakistan,15-02-2015,India,bat,V Kohli,76,
+656407,Ireland,West Indies,16-02-2015,Ireland,field,PR Stirling,,4
+656409,New Zealand,Scotland,17-02-2015,New Zealand,field,TA Boult,,3
+656411,Afghanistan,Bangladesh,18-02-2015,Bangladesh,bat,Mushfiqur Rahim,105,
+656413,United Arab Emirates,Zimbabwe,19-02-2015,Zimbabwe,field,SC Williams,,4
+656415,New Zealand,England,20-02-2015,England,bat,TG Southee,,8
+656417,Pakistan,West Indies,21-02-2015,Pakistan,field,AD Russell,150,
+656421,Afghanistan,Sri Lanka,22-02-2015,Sri Lanka,field,DPMD Jayawardene,,4
+656423,India,South Africa,22-02-2015,India,bat,S Dhawan,130,
+656429,Ireland,United Arab Emirates,25-02-2015,Ireland,field,GC Wilson,,2
+656431,Afghanistan,Scotland,26-02-2015,Afghanistan,field,Samiullah Shenwari,,1
+656435,South Africa,West Indies,27-02-2015,South Africa,bat,AB de Villiers,257,
+656437,New Zealand,Australia,28-02-2015,Australia,bat,TA Boult,,1
+656439,India,United Arab Emirates,28-02-2015,United Arab Emirates,bat,R Ashwin,,9
+656443,Pakistan,Zimbabwe,01-03-2015,Pakistan,bat,Wahab Riaz,20,
+656445,Ireland,South Africa,03-03-2015,South Africa,bat,HM Amla,201,
+656447,Pakistan,United Arab Emirates,04-03-2015,United Arab Emirates,field,Ahmed Shehzad,129,
+656449,Australia,Afghanistan,04-03-2015,Afghanistan,field,DA Warner,275,
+656453,India,West Indies,06-03-2015,West Indies,bat,Mohammed Shami,,4
+656455,Pakistan,South Africa,07-03-2015,South Africa,field,Sarfraz Ahmed,29,
+656457,Ireland,Zimbabwe,07-03-2015,Zimbabwe,field,EC Joyce,5,
+656459,New Zealand,Afghanistan,08-03-2015,Afghanistan,bat,DL Vettori,,6
+656461,Australia,Sri Lanka,08-03-2015,Australia,bat,GJ Maxwell,64,
+656463,Bangladesh,England,09-03-2015,England,field,Mahmudullah,15,
+656465,India,Ireland,10-03-2015,Ireland,bat,S Dhawan,,8
+656467,Scotland,Sri Lanka,11-03-2015,Sri Lanka,bat,KC Sangakkara,148,
+656473,Afghanistan,England,13-03-2015,England,field,CJ Jordan,,9
+656475,India,Zimbabwe,14-03-2015,India,field,SK Raina,,6
+656477,Australia,Scotland,14-03-2015,Australia,field,MA Starc,,7
+656479,United Arab Emirates,West Indies,15-03-2015,West Indies,field,JO Holder,,6
+656481,Ireland,Pakistan,15-03-2015,Ireland,bat,Sarfraz Ahmed,,7
+656483,South Africa,Sri Lanka,18-03-2015,Sri Lanka,bat,Imran Tahir,,9
+656485,Bangladesh,India,19-03-2015,India,bat,RG Sharma,109,
+656487,Australia,Pakistan,20-03-2015,Pakistan,bat,JR Hazlewood,,6
+656489,New Zealand,West Indies,21-03-2015,New Zealand,bat,MJ Guptill,143,
+656491,New Zealand,South Africa,24-03-2015,South Africa,bat,GD Elliott,,4
+656493,Australia,India,26-03-2015,Australia,bat,SPD Smith,95,
+656495,Australia,New Zealand,29-03-2015,New Zealand,bat,JP Faulkner,,7
+657637,Pakistan,Sri Lanka,18-12-2013,Pakistan,bat,Mohammad Hafeez,11,
+657639,Pakistan,Sri Lanka,20-12-2013,Sri Lanka,field,AD Mathews,,2
+657641,Pakistan,Sri Lanka,22-12-2013,Sri Lanka,field,Mohammad Hafeez,113,
+657643,Pakistan,Sri Lanka,25-12-2013,Sri Lanka,bat,Mohammad Hafeez,,8
+657645,Pakistan,Sri Lanka,27-12-2013,Pakistan,bat,LD Chandimal,,2
+659549,Zimbabwe,Pakistan,27-08-2013,Pakistan,bat,H Masakadza,,7
+659551,Zimbabwe,Pakistan,29-08-2013,Zimbabwe,field,Mohammad Hafeez,90,
+659553,Zimbabwe,Pakistan,31-08-2013,Zimbabwe,field,Misbah-ul-Haq,108,
+660099,Bermuda,Scotland,15-11-2013,Bermuda,bat,DC Stovell,18,
+660149,Kenya,Scotland,19-11-2013,Kenya,bat,RG Aga,92,
+660173,Netherlands,Scotland,22-11-2013,Netherlands,field,RML Taylor,15,
+660185,Kenya,Netherlands,23-11-2013,Netherlands,bat,Mudassar Bukhari,29,
+660191,Canada,Italy,24-11-2013,Italy,bat,JOA Gordon,,5
+660209,Canada,Kenya,26-11-2013,Kenya,bat,SO Tikolo,21,
+660211,Hong Kong,Nepal,27-11-2013,Nepal,field,P Khadka,,5
+660827,Canada,Netherlands,29-08-2013,Netherlands,field,T van der Gugten,,9
+660837,Ireland,Scotland,06-09-2013,Scotland,bat,,,1
+661685,New Zealand,West Indies,26-12-2013,West Indies,field,DJG Sammy,,2
+661689,New Zealand,West Indies,01-01-2014,West Indies,field,CJ Anderson,159,
+661691,New Zealand,West Indies,04-01-2014,New Zealand,bat,MJ Guptill,58,
+661693,New Zealand,West Indies,08-01-2014,New Zealand,field,DJ Bravo,203,
+664299,South Africa,Bangladesh,20-09-2013,South Africa,field,L Lee,,6
+664303,South Africa,Bangladesh,24-09-2013,South Africa,field,T Chetty,,8
+666039,Australia,England,19-01-2014,Australia,bat,LS Greenway,,7
+666041,Australia,England,23-01-2014,Australia,bat,NE Bolton,26,
+666043,Australia,England,26-01-2014,England,bat,EA Perry,,4
+667641,New Zealand,India,19-01-2014,India,field,CJ Anderson,24,
+667643,New Zealand,India,22-01-2014,India,field,KS Williamson,15,
+667645,New Zealand,India,25-01-2014,India,field,RA Jadeja,,
+667647,New Zealand,India,28-01-2014,India,bat,LRPL Taylor,,7
+667649,New Zealand,India,31-01-2014,India,field,LRPL Taylor,87,
+667723,England,India,27-08-2014,England,field,SK Raina,133,
+667725,England,India,30-08-2014,India,field,R Ashwin,,6
+667727,England,India,02-09-2014,India,field,AM Rahane,,9
+667729,England,India,05-09-2014,India,field,JE Root,41,
+667889,England,Sri Lanka,22-05-2014,Sri Lanka,field,CJ Jordan,81,
+667891,England,Sri Lanka,25-05-2014,England,field,TM Dilshan,157,
+667893,England,Sri Lanka,28-05-2014,England,field,CJ Jordan,,10
+667895,England,Sri Lanka,31-05-2014,England,field,JC Buttler,7,
+667897,England,Sri Lanka,03-06-2014,England,bat,HDRL Thirimanne,,6
+668511,South Africa,Sri Lanka,26-10-2013,Sri Lanka,field,M du Preez,67,
+668513,South Africa,Sri Lanka,28-10-2013,South Africa,field,,,
+668953,Bangladesh,New Zealand,29-10-2013,New Zealand,field,Rubel Hossain,43,
+668955,Bangladesh,New Zealand,31-10-2013,Bangladesh,bat,Sohag Gazi,40,
+668957,Bangladesh,New Zealand,03-11-2013,Bangladesh,field,Shamsur Rahman,,4
+668959,Bangladesh,New Zealand,06-11-2013,New Zealand,bat,C Munro,15,
+668961,Sri Lanka,New Zealand,10-11-2013,New Zealand,field,,,
+668963,Sri Lanka,New Zealand,12-11-2013,Sri Lanka,bat,TWM Latham,,4
+668965,Sri Lanka,New Zealand,16-11-2013,New Zealand,field,SMSM Senanayake,36,
+676529,India,West Indies,21-11-2013,West Indies,bat,V Kohli,,6
+676531,India,West Indies,24-11-2013,West Indies,field,DJG Sammy,,2
+676533,India,West Indies,27-11-2013,India,field,S Dhawan,,5
+685731,South Africa,Pakistan,24-11-2013,Pakistan,bat,Anwar Ali,23,
+685733,South Africa,Pakistan,27-11-2013,South Africa,field,Ahmed Shehzad,1,
+685735,South Africa,Pakistan,30-11-2013,South Africa,field,VD Philander,,4
+690355,Bangladesh,Sri Lanka,17-02-2014,Bangladesh,field,NLTC Perera,13,
+690357,Bangladesh,Sri Lanka,20-02-2014,Sri Lanka,bat,KC Sangakkara,61,
+690359,Bangladesh,Sri Lanka,22-02-2014,Sri Lanka,field,MDKJ Perera,,6
+696731,Canada,Scotland,23-01-2014,Canada,field,CS MacLeod,170,
+696733,Kenya,Netherlands,23-01-2014,Kenya,field,IA Karim,,4
+696747,Canada,Netherlands,28-01-2014,Canada,bat,MJG Rippon,,8
+696759,Kenya,Scotland,30-01-2014,Kenya,bat,PL Mommsen,,3
+698985,Ireland,Pakistan,19-01-2014,Ireland,field,IMHC Joyce,,6
+702139,West Indies,Ireland,23-02-2014,Ireland,bat,DJ Bravo,,4
+706767,Ireland,Sri Lanka,06-05-2014,Ireland,field,BAW Mendis,79,
+710291,Pakistan,Sri Lanka,25-02-2014,Sri Lanka,bat,SL Malinga,12,
+710293,Bangladesh,India,26-02-2014,India,field,V Kohli,,6
+710297,India,Sri Lanka,28-02-2014,Sri Lanka,field,KC Sangakkara,,2
+710299,Bangladesh,Afghanistan,01-03-2014,Bangladesh,field,Samiullah Shenwari,32,
+710301,India,Pakistan,02-03-2014,Pakistan,field,Mohammad Hafeez,,1
+710305,Bangladesh,Pakistan,04-03-2014,Bangladesh,bat,Shahid Afridi,,3
+710307,Afghanistan,India,05-03-2014,India,field,RA Jadeja,,8
+710309,Bangladesh,Sri Lanka,06-03-2014,Bangladesh,bat,AD Mathews,,3
+710311,Pakistan,Sri Lanka,08-03-2014,Pakistan,bat,SL Malinga,,5
+722339,South Africa,West Indies,16-01-2015,South Africa,bat,AB de Villiers,61,
+722341,South Africa,West Indies,18-01-2015,West Indies,field,AB de Villiers,148,
+722343,South Africa,West Indies,21-01-2015,West Indies,bat,VD Philander,,9
+722345,South Africa,West Indies,25-01-2015,West Indies,field,AD Russell,,1
+722347,South Africa,West Indies,28-01-2015,West Indies,field,RR Rossouw,131,
+722389,England,India,21-08-2014,England,field,HC Knight,42,
+722391,England,India,23-08-2014,India,field,CM Edwards,13,
+722665,Malaysia,Cayman Islands,07-03-2014,Cayman Islands,field,Nasir Shafiq,213,
+722667,Cayman Islands,Nigeria,09-03-2014,Nigeria,field,E Ofem,,7
+722673,Malaysia,Guernsey,10-03-2014,Malaysia,bat,Ahmed Faiz Mohammad Noor,63,
+722687,Nigeria,Tanzania,13-03-2014,Nigeria,bat,OJ Bejide,,3
+727919,Australia,Pakistan,07-10-2014,Australia,bat,SPD Smith,93,
+727921,Australia,Pakistan,10-10-2014,Pakistan,bat,GJ Maxwell,,5
+727923,Australia,Pakistan,12-10-2014,Australia,bat,GJ Maxwell,1,
+727935,Ireland,Scotland,08-09-2014,Ireland,field,,,7
+727937,Ireland,Scotland,10-09-2014,Ireland,field,,,3
+727939,Ireland,Scotland,12-09-2014,Scotland,field,,,8
+729289,Kolkata Knight Riders,Delhi Daredevils,19-04-2014,Kolkata Knight Riders,bat,JP Duminy,,4
+729293,Chennai Super Kings,Delhi Daredevils,21-04-2014,Chennai Super Kings,bat,SK Raina,93,
+729297,Rajasthan Royals,Chennai Super Kings,23-04-2014,Rajasthan Royals,field,RA Jadeja,7,
+729299,Royal Challengers Bangalore,Kolkata Knight Riders,24-04-2014,Royal Challengers Bangalore,field,CA Lynn,2,
+729313,Kings XI Punjab,Royal Challengers Bangalore,28-04-2014,Kings XI Punjab,field,Sandeep Sharma,,5
+730083,Sri Lanka,South Africa,06-07-2014,South Africa,bat,HM Amla,75,
+730085,Sri Lanka,South Africa,09-07-2014,Sri Lanka,bat,TM Dilshan,87,
+730087,Sri Lanka,South Africa,12-07-2014,South Africa,bat,AB de Villiers,82,
+730287,West Indies,Bangladesh,20-08-2014,West Indies,field,KA Pollard,,3
+730289,West Indies,Bangladesh,22-08-2014,Bangladesh,field,SP Narine,177,
+730291,West Indies,Bangladesh,25-08-2014,West Indies,bat,D Ramdin,91,
+733983,Mumbai Indians,Royal Challengers Bangalore,06-05-2014,Royal Challengers Bangalore,field,RG Sharma,19,
+733989,Rajasthan Royals,Sunrisers Hyderabad,08-05-2014,Rajasthan Royals,field,B Kumar,32,
+733995,Mumbai Indians,Chennai Super Kings,10-05-2014,Chennai Super Kings,field,DR Smith,,4
+733999,Royal Challengers Bangalore,Rajasthan Royals,11-05-2014,Royal Challengers Bangalore,bat,JP Faulkner,,5
+734001,Sunrisers Hyderabad,Mumbai Indians,12-05-2014,Sunrisers Hyderabad,bat,AT Rayudu,,7
+734005,Royal Challengers Bangalore,Delhi Daredevils,13-05-2014,Delhi Daredevils,field,Yuvraj Singh,16,
+734007,Sunrisers Hyderabad,Kings XI Punjab,14-05-2014,Kings XI Punjab,field,WP Saha,,6
+734011,Rajasthan Royals,Delhi Daredevils,15-05-2014,Delhi Daredevils,field,AM Rahane,62,
+734015,Sunrisers Hyderabad,Kolkata Knight Riders,18-05-2014,Sunrisers Hyderabad,bat,UT Yadav,,7
+734023,Kolkata Knight Riders,Chennai Super Kings,20-05-2014,Kolkata Knight Riders,field,RV Uthappa,,8
+734035,Royal Challengers Bangalore,Chennai Super Kings,24-05-2014,Chennai Super Kings,field,MS Dhoni,,8
+734037,Kolkata Knight Riders,Sunrisers Hyderabad,24-05-2014,Kolkata Knight Riders,field,YK Pathan,,4
+734041,Mumbai Indians,Rajasthan Royals,25-05-2014,Mumbai Indians,field,CJ Anderson,,5
+736437,Zimbabwe,South Africa,17-08-2014,Zimbabwe,field,HM Amla,93,
+736439,Zimbabwe,South Africa,19-08-2014,Zimbabwe,field,WD Parnell,61,
+736441,Zimbabwe,South Africa,21-08-2014,South Africa,field,Q de Kock,,7
+736445,Australia,South Africa,27-08-2014,South Africa,field,AB de Villiers,,7
+736447,Zimbabwe,South Africa,29-08-2014,Zimbabwe,field,P Utseya,61,
+736449,Zimbabwe,Australia,31-08-2014,Australia,bat,E Chigumbura,,3
+736451,Australia,South Africa,02-09-2014,South Africa,field,MR Marsh,62,
+736455,Australia,South Africa,06-09-2014,South Africa,field,DW Steyn,,6
+736499,Malaysia,Oman,01-05-2014,Oman,bat,Aamir Kaleem,74,
+736501,Nepal,United Arab Emirates,01-05-2014,Nepal,field,SP Khakurel,,4
+736503,Afghanistan,United Arab Emirates,02-05-2014,United Arab Emirates,field,Mohammad Nabi,70,
+736505,Malaysia,Nepal,02-05-2014,Malaysia,bat,Sompal Kami,,5
+736507,Hong Kong,Oman,02-05-2014,Hong Kong,field,AV Lalcheta,9,
+736511,Hong Kong,United Arab Emirates,04-05-2014,United Arab Emirates,field,Mohammad Shahzad (2),,2
+736515,Afghanistan,Oman,05-05-2014,Afghanistan,field,Samiullah Shenwari,,5
+736517,Hong Kong,Nepal,05-05-2014,Nepal,field,Irfan Ahmed,,7
+736519,Malaysia,United Arab Emirates,05-05-2014,United Arab Emirates,field,Fayyaz Ahmed,,6
+736521,Afghanistan,Nepal,07-05-2014,Nepal,field,Dawlat Zadran,108,
+736525,Malaysia,Hong Kong,07-05-2014,Hong Kong,field,Waqas Barkat,,4
+742619,New Zealand,Pakistan,08-12-2014,Pakistan,field,Haris Sohail,,3
+742621,New Zealand,Pakistan,12-12-2014,Pakistan,bat,KS Williamson,,4
+742623,New Zealand,Pakistan,14-12-2014,Pakistan,bat,Ahmed Shehzad,147,
+742625,New Zealand,Pakistan,17-12-2014,New Zealand,bat,KS Williamson,7,
+742627,New Zealand,Pakistan,19-12-2014,New Zealand,bat,MJ Henry,68,
+743943,England,New Zealand,09-06-2015,New Zealand,field,JC Buttler,210,
+743945,England,New Zealand,12-06-2015,New Zealand,bat,LRPL Taylor,13,
+743947,England,New Zealand,14-06-2015,England,bat,KS Williamson,,3
+743949,England,New Zealand,17-06-2015,New Zealand,bat,EJG Morgan,,7
+743951,England,New Zealand,20-06-2015,England,field,JM Bairstow,,3
+743973,Ireland,Australia,27-08-2015,Australia,bat,DA Warner,23,
+743977,England,Australia,03-09-2015,Australia,bat,MS Wade,59,
+743979,England,Australia,05-09-2015,England,field,MR Marsh,64,
+743981,England,Australia,08-09-2015,England,bat,JWA Taylor,93,
+743983,England,Australia,11-09-2015,Australia,bat,EJG Morgan,,3
+743985,England,Australia,13-09-2015,England,bat,MR Marsh,,8
+744679,Bangladesh,India,15-06-2014,Bangladesh,bat,AM Rahane,,7
+744681,Bangladesh,India,17-06-2014,Bangladesh,field,STR Binny,47,
+744683,Bangladesh,India,19-06-2014,India,bat,,,
+745159,Sri Lanka,Pakistan,23-08-2014,Pakistan,field,Sohaib Maqsood,,4
+745161,Sri Lanka,Pakistan,26-08-2014,Sri Lanka,bat,NLTC Perera,77,
+745163,Sri Lanka,Pakistan,30-08-2014,Pakistan,bat,NLTC Perera,,7
+746087,Singapore,Kuwait,08-06-2014,Kuwait,field,Abhiraj Singh,20,
+746091,Bahrain,Maldives,08-06-2014,Bahrain,bat,Mohamed Mahfooz,,8
+746093,Kuwait,Maldives,10-06-2014,Maldives,field,Faizan Ali,57,
+746095,Singapore,Bhutan,10-06-2014,Singapore,bat,R Gaznavi,282,
+746097,Bahrain,Saudi Arabia,10-06-2014,Saudi Arabia,field,Abdul Waheed,,7
+746101,Bhutan,Kuwait,11-06-2014,Bhutan,bat,Mohammed Irfan,,6
+746105,Kuwait,Saudi Arabia,13-06-2014,Kuwait,field,Mohammed Irfan,,5
+746107,Singapore,Maldives,13-06-2014,Singapore,field,Abhiraj Singh,,8
+749539,Singapore,Denmark,21-06-2014,Singapore,field,Yasir Iqbal,70,
+749541,Italy,Oman,21-06-2014,Oman,bat,DG Crowley,,3
+749543,Jersey,Malaysia,21-06-2014,Jersey,bat,Nasir Shafiq,,3
+749545,Denmark,Malaysia,22-06-2014,Malaysia,field,Ahmed Faiz Mohammad Noor,,6
+749547,Jersey,Oman,22-06-2014,Jersey,bat,Zeeshan Siddiqui,,7
+749551,Jersey,Italy,24-06-2014,Jersey,field,PW Gough,,3
+749553,Singapore,Malaysia,24-06-2014,Malaysia,field,Nasir Shafiq,48,
+749555,Denmark,Oman,24-06-2014,Oman,field,Zishan Shah,13,
+749557,Singapore,Oman,25-06-2014,Singapore,field,CR Kumarage,,2
+749563,Malaysia,Oman,27-06-2014,Malaysia,field,Ahmed Faiz Mohammad Noor,,6
+749567,Singapore,Jersey,27-06-2014,Singapore,field,CR Kumarage,,5
+749571,Denmark,Italy,28-06-2014,Denmark,bat,HAM Shah,35,
+749573,Jersey,Oman,28-06-2014,Jersey,field,Jatinder Singh,36,
+749771,New Zealand,South Africa,21-10-2014,South Africa,field,AB de Villiers,,6
+749773,New Zealand,South Africa,24-10-2014,New Zealand,field,HM Amla,72,
+749775,New Zealand,South Africa,27-10-2014,New Zealand,field,,,
+749781,New Zealand,Sri Lanka,11-01-2015,Sri Lanka,bat,CJ Anderson,,3
+749783,New Zealand,Sri Lanka,15-01-2015,New Zealand,bat,TM Dilshan,,6
+749785,New Zealand,Sri Lanka,17-01-2015,Sri Lanka,field,,,
+749787,New Zealand,Sri Lanka,20-01-2015,Sri Lanka,bat,KS Williamson,,4
+749789,New Zealand,Sri Lanka,23-01-2015,Sri Lanka,field,L Ronchi,108,
+749791,New Zealand,Sri Lanka,25-01-2015,New Zealand,bat,CJ Anderson,120,
+749793,New Zealand,Sri Lanka,29-01-2015,Sri Lanka,bat,KC Sangakkara,34,
+749795,New Zealand,Pakistan,31-01-2015,New Zealand,field,GD Elliott,,7
+749797,New Zealand,Pakistan,03-02-2015,New Zealand,bat,KS Williamson,119,
+750663,Sri Lanka,England,26-11-2014,England,field,TM Dilshan,25,
+750665,Sri Lanka,England,29-11-2014,England,bat,DPMD Jayawardene,,8
+750667,Sri Lanka,England,03-12-2014,Sri Lanka,bat,JC Buttler,,5
+750669,Sri Lanka,England,07-12-2014,England,bat,KC Sangakkara,,6
+750673,Sri Lanka,England,13-12-2014,Sri Lanka,bat,KC Sangakkara,90,
+750675,Sri Lanka,England,16-12-2014,Sri Lanka,bat,TM Dilshan,87,
+754723,Australia,South Africa,14-11-2014,South Africa,field,NM Coulter-Nile,32,
+754725,Australia,South Africa,16-11-2014,Australia,bat,M Morkel,,3
+754727,Australia,South Africa,19-11-2014,Australia,bat,SPD Smith,73,
+754729,Australia,South Africa,21-11-2014,South Africa,bat,SPD Smith,,3
+754731,Australia,South Africa,23-11-2014,South Africa,bat,Q de Kock,,2
+754749,Australia,India,18-01-2015,India,bat,MA Starc,,4
+754751,Australia,England,16-01-2015,England,bat,MA Starc,,3
+754753,England,India,20-01-2015,India,bat,ST Finn,,9
+754755,Australia,England,23-01-2015,Australia,field,SPD Smith,,3
+754757,Australia,India,26-01-2015,Australia,field,,,
+754759,England,India,30-01-2015,England,field,JWA Taylor,,3
+754789,Australia,Pakistan,26-08-2014,Pakistan,bat,NE Bolton,,8
+754809,Australia,West Indies,11-11-2014,Australia,field,SR Taylor,,3
+754811,Australia,West Indies,13-11-2014,Australia,bat,EA Perry,53,
+754813,Australia,West Indies,16-11-2014,West Indies,bat,MM Lanning,,8
+754815,Australia,West Indies,18-11-2014,Australia,bat,EA Perry,148,
+756037,Zimbabwe,Afghanistan,20-07-2014,Zimbabwe,field,Sikandar Raza,,8
+756039,Zimbabwe,Afghanistan,22-07-2014,Afghanistan,field,H Masakadza,,2
+756041,Zimbabwe,Afghanistan,24-07-2014,Zimbabwe,field,DT Tiripano,100,
+756735,Adelaide Strikers,Melbourne Stars,18-12-2014,Melbourne Stars,bat,TP Ludeman,,8
+756781,Brisbane Heat,Sydney Sixers,11-01-2015,Sydney Sixers,field,DE Bollinger,,6
+756787,Sydney Sixers,Adelaide Strikers,14-01-2015,Adelaide Strikers,bat,J Botha,23,
+756795,Melbourne Stars,Perth Scorchers,21-01-2015,Perth Scorchers,bat,PSP Handscomb,,3
+757507,Sri Lanka,South Africa,19-10-2014,Sri Lanka,field,AC Jayangani,,4
+757509,Sri Lanka,South Africa,21-10-2014,South Africa,field,T Chetty,,5
+760787,Bangladesh,Zimbabwe,21-11-2014,Zimbabwe,field,Shakib Al Hasan,87,
+760789,Bangladesh,Zimbabwe,23-11-2014,Bangladesh,bat,Mashrafe Mortaza,68,
+760791,Bangladesh,Zimbabwe,26-11-2014,Zimbabwe,field,Anamul Haque,124,
+760793,Bangladesh,Zimbabwe,28-11-2014,Bangladesh,bat,Mahmudullah,21,
+760795,Bangladesh,Zimbabwe,01-12-2014,Zimbabwe,bat,Taijul Islam,,5
+760889,Ireland,England,08-05-2015,England,field,,,
+770121,India,West Indies,08-10-2014,India,field,MN Samuels,124,
+770123,India,West Indies,11-10-2014,India,bat,Mohammed Shami,48,
+770127,India,West Indies,17-10-2014,West Indies,field,V Kohli,59,
+777995,Nepal,Thailand,21-09-2014,Thailand,field,,,6
+778021,China,Malaysia,28-09-2014,China,bat,,,9
+778031,South Korea,Sri Lanka,30-09-2014,South Korea,field,,117,
+778037,Afghanistan,Hong Kong,02-10-2014,Afghanistan,field,,,8
+785961,Bermuda,United States of America,23-10-2014,United States of America,field,Usman Shuja,,6
+785963,Malaysia,Singapore,23-10-2014,Singapore,field,A Mutreja,,2
+785965,Singapore,Uganda,24-10-2014,Uganda,bat,RG Mukasa,1,
+785967,Malaysia,United States of America,24-10-2014,Malaysia,field,Shafiq Sharif,,5
+785969,Bermuda,Nepal,24-10-2014,Nepal,field,B Bhandari,,8
+785975,Uganda,United States of America,26-10-2014,Uganda,bat,RG Mukasa,24,
+785977,Nepal,United States of America,27-10-2014,United States of America,bat,,,
+785979,Malaysia,Uganda,27-10-2014,Uganda,bat,D Duraisingam,,4
+785981,Bermuda,Singapore,27-10-2014,Singapore,bat,,,
+785983,Singapore,United States of America,29-10-2014,Singapore,bat,AE Paraam,32,
+785985,Bermuda,Uganda,29-10-2014,Bermuda,bat,RG Mukasa,,7
+785987,Malaysia,Nepal,29-10-2014,Nepal,field,P Khadka,36,
+785989,Malaysia,Singapore,30-10-2014,Malaysia,field,Suhan Alagaratnam,,7
+785991,Bermuda,United States of America,30-10-2014,Bermuda,bat,Adil Bhatti,,10
+785993,Nepal,Uganda,30-10-2014,Nepal,bat,RG Mukasa,62,
+792289,India,Sri Lanka,02-11-2014,Sri Lanka,field,AM Rahane,169,
+792291,India,Sri Lanka,06-11-2014,Sri Lanka,bat,AT Rayudu,,6
+792293,India,Sri Lanka,09-11-2014,Sri Lanka,bat,DPMD Jayawardene,,6
+792295,India,Sri Lanka,13-11-2014,India,bat,RG Sharma,153,
+792297,India,Sri Lanka,16-11-2014,Sri Lanka,bat,AD Mathews,,3
+793201,Bermuda,Singapore,28-10-2014,Bermuda,bat,S Vijayakumar,,3
+798369,England,Australia,21-07-2015,Australia,bat,NR Sciver,,4
+800469,South Africa,England,03-02-2016,England,bat,Q de Kock,39,
+800471,South Africa,England,06-02-2016,South Africa,bat,AD Hales,,5
+800473,South Africa,England,09-02-2016,England,bat,Q de Kock,,7
+800475,South Africa,England,12-02-2016,South Africa,field,CH Morris,,1
+800477,South Africa,England,14-02-2016,South Africa,field,AB de Villiers,,5
+803795,United Arab Emirates,Afghanistan,28-11-2014,Afghanistan,bat,Amjad Ali,,5
+803797,United Arab Emirates,Afghanistan,30-11-2014,United Arab Emirates,field,Khurram Khan,,6
+808863,Pakistan,Sri Lanka,11-01-2015,Pakistan,bat,Sana Mir,12,
+808865,Pakistan,Sri Lanka,13-01-2015,Sri Lanka,bat,Javeria Khan,,7
+810829,Ireland,Scotland,12-01-2015,Ireland,field,NJ O'Brien,,3
+810833,Afghanistan,Ireland,17-01-2015,Ireland,field,Najibullah Zadran,71,
+811111,Malaysia,Maldives,25-01-2015,Malaysia,bat,Ahmed Faiz Mohammad Noor,56,
+812623,Afghanistan,Scotland,08-01-2015,Afghanistan,field,Javed Ahmadi,,8
+812645,Afghanistan,Scotland,14-01-2015,Scotland,bat,JH Davey,150,
+812775,Namibia,Kenya,17-01-2015,Namibia,field,SJ Baard,,5
+812777,Canada,Netherlands,17-01-2015,Canada,field,W Barresi,67,
+812779,Nepal,Uganda,17-01-2015,Uganda,bat,DK Arinaitwe,2,
+812781,Namibia,Uganda,18-01-2015,Uganda,bat,MG Erasmus,,4
+812785,Canada,Kenya,18-01-2015,Canada,bat,NS Dhaliwal,46,
+812787,Canada,Nepal,20-01-2015,Canada,bat,P Khadka,,7
+812789,Kenya,Uganda,20-01-2015,Kenya,field,SO Ngoche,,5
+812791,Namibia,Netherlands,20-01-2015,Netherlands,field,MG Erasmus,188,
+812795,Namibia,Nepal,21-01-2015,Nepal,field,P Khadka,,3
+812799,Netherlands,Uganda,23-01-2015,Netherlands,field,Ahsan Malik,,7
+812801,Namibia,Canada,23-01-2015,Namibia,field,CG Williams,,8
+812803,Kenya,Nepal,23-01-2015,Kenya,field,IA Karim,,5
+817207,Bangladesh,South Africa,10-07-2015,Bangladesh,bat,K Rabada,,8
+817209,Bangladesh,South Africa,12-07-2015,South Africa,bat,Soumya Sarkar,,7
+817211,Bangladesh,South Africa,15-07-2015,South Africa,bat,Soumya Sarkar,,9
+828245,Pakistan,South Africa,17-03-2015,Pakistan,bat,L Lee,,5
+829713,Kolkata Knight Riders,Royal Challengers Bangalore,11-04-2015,Royal Challengers Bangalore,field,CH Gayle,,3
+829717,Mumbai Indians,Kings XI Punjab,12-04-2015,Mumbai Indians,field,GJ Bailey,18,
+829737,Royal Challengers Bangalore,Mumbai Indians,19-04-2015,Royal Challengers Bangalore,field,Harbhajan Singh,18,
+829743,Sunrisers Hyderabad,Kolkata Knight Riders,22-04-2015,Kolkata Knight Riders,field,DA Warner,16,
+829751,Mumbai Indians,Sunrisers Hyderabad,25-04-2015,Mumbai Indians,bat,SL Malinga,20,
+829775,Kings XI Punjab,Mumbai Indians,03-05-2015,Mumbai Indians,bat,LMP Simmons,23,
+829779,Chennai Super Kings,Royal Challengers Bangalore,04-05-2015,Chennai Super Kings,bat,SK Raina,24,
+829787,Rajasthan Royals,Sunrisers Hyderabad,07-05-2015,Rajasthan Royals,field,EJG Morgan,7,
+829805,Mumbai Indians,Kolkata Knight Riders,14-05-2015,Kolkata Knight Riders,field,HH Pandya,5,
+829817,Chennai Super Kings,Mumbai Indians,19-05-2015,Mumbai Indians,bat,KA Pollard,25,
+829821,Chennai Super Kings,Royal Challengers Bangalore,22-05-2015,Chennai Super Kings,field,A Nehra,,3
+848843,South Africa,New Zealand,19-08-2015,New Zealand,field,HM Amla,20,
+848845,South Africa,New Zealand,23-08-2015,South Africa,bat,MJ Guptill,,8
+848847,South Africa,New Zealand,26-08-2015,South Africa,bat,AB de Villiers,62,
+858485,Bangladesh,Pakistan,17-04-2015,Bangladesh,bat,Mushfiqur Rahim,79,
+858487,Bangladesh,Pakistan,19-04-2015,Pakistan,bat,Tamim Iqbal,,7
+858489,Bangladesh,Pakistan,22-04-2015,Pakistan,bat,Soumya Sarkar,,8
+860269,Sri Lanka,Pakistan,11-07-2015,Pakistan,field,Mohammad Hafeez,,6
+860271,Sri Lanka,Pakistan,15-07-2015,Pakistan,bat,MDKJ Perera,,2
+860273,Sri Lanka,Pakistan,19-07-2015,Pakistan,bat,Sarfraz Ahmed,135,
+860275,Sri Lanka,Pakistan,22-07-2015,Sri Lanka,bat,Ahmed Shehzad,,7
+860277,Sri Lanka,Pakistan,26-07-2015,Sri Lanka,bat,MDKJ Perera,165,
+868727,Pakistan,Zimbabwe,26-05-2015,Pakistan,bat,Shoaib Malik,41,
+868729,Pakistan,Zimbabwe,29-05-2015,Pakistan,field,Azhar Ali,,6
+868731,Pakistan,Zimbabwe,31-05-2015,Pakistan,bat,,,
+870731,Bangladesh,India,18-06-2015,Bangladesh,bat,Mustafizur Rahman,79,
+870733,Bangladesh,India,21-06-2015,India,bat,Mustafizur Rahman,,6
+870735,Bangladesh,India,24-06-2015,Bangladesh,field,SK Raina,77,
+870887,Netherlands,Papua New Guinea,24-06-2015,Papua New Guinea,field,,85,
+870891,Kenya,United Arab Emirates,27-06-2015,United Arab Emirates,field,,65,
+872481,India,New Zealand,06-07-2015,New Zealand,bat,,,8
+872483,India,New Zealand,08-07-2015,New Zealand,bat,,,9
+875477,Ireland,United States of America,12-07-2015,United States of America,field,A Balbirnie,46,
+875523,Jersey,Nepal,18-07-2015,Jersey,field,NAT Watkins,,7
+881741,Bangladesh,Papua New Guinea,01-12-2015,Papua New Guinea,field,Khadija Tul Kubra,41,
+881745,China,Netherlands,01-12-2015,Netherlands,bat,Huang Zhuo,,5
+881747,Bangladesh,Zimbabwe,03-12-2015,Zimbabwe,field,Rumana Ahmed,31,
+881751,Ireland,Scotland,03-12-2015,Ireland,field,LK O'Reilly,,9
+881755,Bangladesh,Ireland,05-12-2015,Bangladesh,bat,Rumana Ahmed,,2
+881761,Scotland,Zimbabwe,05-12-2015,Zimbabwe,field,CS Mugeri,,3
+885959,Zimbabwe,India,10-07-2015,Zimbabwe,field,AT Rayudu,4,
+885965,Zimbabwe,India,12-07-2015,Zimbabwe,field,M Vijay,62,
+885967,Zimbabwe,India,14-07-2015,Zimbabwe,field,KM Jadhav,83,
+894287,Zimbabwe,New Zealand,02-08-2015,Zimbabwe,field,CR Ervine,,7
+894289,Zimbabwe,New Zealand,04-08-2015,Zimbabwe,bat,TWM Latham,,10
+894291,Zimbabwe,New Zealand,07-08-2015,Zimbabwe,field,KS Williamson,38,
+895797,Australia,India,07-02-2016,Australia,bat,M Raj,,5
+895807,Australia,India,12-01-2016,India,bat,SPD Smith,,5
+895809,Australia,India,15-01-2016,India,bat,RG Sharma,,7
+895811,Australia,India,17-01-2016,Australia,field,GJ Maxwell,,3
+895813,Australia,India,20-01-2016,Australia,bat,KW Richardson,25,
+895815,Australia,India,23-01-2016,India,field,MK Pandey,,6
+897709,Melbourne Renegades,Sydney Sixers,23-12-2015,Sydney Sixers,field,MJ Lumb,,3
+897715,Sydney Thunder,Adelaide Strikers,28-12-2015,Adelaide Strikers,bat,JH Kallis,,7
+897721,Adelaide Strikers,Sydney Sixers,31-12-2015,Adelaide Strikers,field,TM Head,,5
+897725,Melbourne Stars,Melbourne Renegades,02-01-2016,Melbourne Stars,field,LJ Wright,,7
+897739,Brisbane Heat,Adelaide Strikers,08-01-2016,Adelaide Strikers,field,DPMD Jayawardene,,8
+897745,Sydney Sixers,Brisbane Heat,10-01-2016,Brisbane Heat,bat,JA Burns,6,
+897751,Melbourne Stars,Brisbane Heat,14-01-2016,Melbourne Stars,field,S Badree,56,
+897761,Melbourne Stars,Perth Scorchers,22-01-2016,Melbourne Stars,field,KP Pietersen,,7
+902641,England,Pakistan,11-11-2015,England,bat,Mohammad Hafeez,,6
+902643,England,Pakistan,13-11-2015,England,bat,AD Hales,95,
+902645,England,Pakistan,17-11-2015,Pakistan,bat,JWA Taylor,,6
+902647,England,Pakistan,20-11-2015,England,bat,JC Buttler,84,
+903593,India,South Africa,11-10-2015,South Africa,bat,AB de Villiers,5,
+903595,India,South Africa,14-10-2015,India,bat,MS Dhoni,22,
+903597,India,South Africa,18-10-2015,South Africa,bat,M Morkel,18,
+903599,India,South Africa,22-10-2015,India,bat,V Kohli,35,
+903601,India,South Africa,25-10-2015,South Africa,bat,Q de Kock,214,
+907375,South Africa,England,07-02-2016,South Africa,bat,A Shrubsole,,7
+907389,South Africa,West Indies,24-02-2016,West Indies,bat,DJS Dottin,16,
+907391,South Africa,West Indies,27-02-2016,West Indies,bat,SR Taylor,57,
+907393,South Africa,West Indies,29-02-2016,South Africa,bat,T Chetty,35,
+911049,United Arab Emirates,Hong Kong,16-11-2015,Hong Kong,bat,MS Chapman,89,
+913419,Fiji,Guernsey,07-09-2015,Fiji,field,OE Newey,188,
+913421,Cayman Islands,Vanuatu,07-09-2015,Cayman Islands,bat,A Mansale,,4
+913427,Norway,Vanuatu,08-09-2015,Norway,bat,J Rasu,,4
+913429,Fiji,Suriname,08-09-2015,Fiji,bat,G Singh,,6
+913431,Botswana,Guernsey,08-09-2015,Guernsey,bat,MWR Stokes,151,
+913435,Guernsey,Suriname,10-09-2015,Suriname,field,DR Hooper,44,
+913445,Guernsey,Norway,11-09-2015,Guernsey,bat,DR Hooper,22,
+913447,Suriname,Vanuatu,11-09-2015,Suriname,field,MC Patandin,,4
+913451,Botswana,Fiji,13-09-2015,Botswana,field,J Wesele,133,
+913455,Guernsey,Suriname,13-09-2015,Suriname,field,G Singh,,6
+913621,Ireland,Sri Lanka,18-06-2016,Ireland,field,,136,
+913623,England,Sri Lanka,21-06-2016,England,field,CR Woakes,,
+913625,England,Sri Lanka,24-06-2016,Sri Lanka,bat,JJ Roy,,10
+913627,England,Sri Lanka,26-06-2016,England,field,,,
+913629,England,Sri Lanka,29-06-2016,England,field,JJ Roy,,6
+913631,England,Sri Lanka,02-07-2016,Sri Lanka,field,JC Buttler,122,
+913649,Ireland,Pakistan,18-08-2016,Ireland,field,,255,
+913653,England,Pakistan,24-08-2016,Pakistan,bat,JJ Roy,44,
+913655,England,Pakistan,27-08-2016,Pakistan,bat,JE Root,,4
+913657,England,Pakistan,30-08-2016,England,bat,AD Hales,169,
+913659,England,Pakistan,01-09-2016,Pakistan,bat,JM Bairstow,,4
+913661,England,Pakistan,04-09-2016,Pakistan,field,Sarfraz Ahmed,,4
+914207,New Zealand,Sri Lanka,26-12-2015,Sri Lanka,bat,MJ Henry,,7
+914209,New Zealand,Sri Lanka,28-12-2015,Sri Lanka,bat,MJ Guptill,,10
+914211,New Zealand,Sri Lanka,31-12-2015,New Zealand,bat,MD Gunathilaka,,8
+914213,New Zealand,Sri Lanka,02-01-2016,Sri Lanka,field,,,
+914215,New Zealand,Sri Lanka,05-01-2016,Sri Lanka,field,MJ Henry,36,
+914227,New Zealand,Pakistan,25-01-2016,Pakistan,field,HM Nicholls,70,
+914231,New Zealand,Australia,03-02-2016,Australia,field,MJ Guptill,159,
+914235,New Zealand,Australia,08-02-2016,Australia,field,IS Sodhi,55,
+914265,New Zealand,Pakistan,31-01-2016,Pakistan,bat,MJ Guptill,,3
+915777,Sri Lanka,West Indies,01-11-2015,Sri Lanka,field,TM Dilshan,,1
+915779,Sri Lanka,West Indies,04-11-2015,West Indies,bat,MDKJ Perera,,8
+915781,Sri Lanka,West Indies,07-11-2015,Sri Lanka,field,MN Samuels,19,
+916645,New Zealand,Sri Lanka,03-11-2015,Sri Lanka,field,,96,
+916647,New Zealand,Sri Lanka,05-11-2015,New Zealand,field,,,10
+916661,New Zealand,Australia,20-02-2016,Australia,field,AE Satterthwaite,9,
+916663,New Zealand,Australia,22-02-2016,Australia,field,MM Lanning,,8
+919607,Zimbabwe,Pakistan,01-10-2015,Zimbabwe,field,Yasir Shah,131,
+919609,Zimbabwe,Pakistan,03-10-2015,Pakistan,field,E Chigumbura,5,
+919611,Zimbabwe,Pakistan,05-10-2015,Pakistan,field,Bilal Asif,,7
+919613,Zimbabwe,Ireland,09-10-2015,Zimbabwe,field,Sikandar Raza,,2
+919615,Zimbabwe,Ireland,11-10-2015,Zimbabwe,field,CR Ervine,,5
+919617,Zimbabwe,Ireland,13-10-2015,Ireland,field,TJ Murtagh,,2
+923327,Pakistan,Bangladesh,06-10-2015,Bangladesh,bat,Anam Amin,,6
+924627,Zimbabwe,Afghanistan,16-10-2015,Afghanistan,bat,WP Masakadza,,8
+924629,Zimbabwe,Afghanistan,18-10-2015,Afghanistan,bat,Mohammad Nabi,58,
+924633,Zimbabwe,Afghanistan,22-10-2015,Zimbabwe,bat,Mohammad Shahzad,,3
+930567,Oman,Papua New Guinea,12-11-2015,Papua New Guinea,field,,,2
+930569,Oman,Nepal,14-11-2015,Oman,field,,,3
+930573,United Arab Emirates,Oman,22-11-2015,United Arab Emirates,field,,,7
+931390,Bangladesh,Zimbabwe,07-11-2015,Zimbabwe,field,Mushfiqur Rahim,145,
+931392,Bangladesh,Zimbabwe,09-11-2015,Zimbabwe,field,Imrul Kayes,58,
+931394,Bangladesh,Zimbabwe,11-11-2015,Bangladesh,bat,Tamim Iqbal,61,
+932849,West Indies,South Africa,03-06-2016,South Africa,bat,SP Narine,,4
+932851,West Indies,Australia,05-06-2016,Australia,field,NM Lyon,,6
+932853,Australia,South Africa,07-06-2016,South Africa,bat,F Behardien,47,
+932855,Australia,South Africa,11-06-2016,Australia,bat,DA Warner,36,
+932859,West Indies,South Africa,15-06-2016,West Indies,field,Imran Tahir,139,
+932863,West Indies,Australia,21-06-2016,Australia,field,MN Samuels,,6
+932865,West Indies,South Africa,24-06-2016,South Africa,field,DM Bravo,100,
+932867,West Indies,Australia,26-06-2016,Australia,bat,MR Marsh,58,
+935813,South Africa,New Zealand,11-10-2016,South Africa,field,M du Preez,,4
+935817,South Africa,New Zealand,17-10-2016,New Zealand,field,,,8
+935819,South Africa,New Zealand,19-10-2016,New Zealand,bat,NC Dodd,95,
+935821,South Africa,New Zealand,22-10-2016,South Africa,field,M Klaas,,5
+935823,South Africa,New Zealand,24-10-2016,New Zealand,bat,KJ Martin,126,
+936131,South Africa,Ireland,25-09-2016,Ireland,field,T Bavuma,206,
+936133,Australia,Ireland,27-09-2016,Ireland,bat,UT Khawaja,,9
+936135,South Africa,Australia,30-09-2016,South Africa,field,Q de Kock,,6
+936137,South Africa,Australia,02-10-2016,Australia,field,F du Plessis,142,
+936139,South Africa,Australia,05-10-2016,Australia,bat,DA Miller,,4
+936141,South Africa,Australia,09-10-2016,Australia,bat,KJ Abbott,,6
+936143,South Africa,Australia,12-10-2016,South Africa,bat,DA Warner,31,
+936159,South Africa,Sri Lanka,28-01-2017,South Africa,field,Imran Tahir,,8
+936161,South Africa,Sri Lanka,01-02-2017,Sri Lanka,field,F du Plessis,121,
+936163,South Africa,Sri Lanka,04-02-2017,South Africa,field,D Pretorius,,7
+936165,South Africa,Sri Lanka,07-02-2017,South Africa,bat,F du Plessis,40,
+936167,South Africa,Sri Lanka,10-02-2017,Sri Lanka,field,HM Amla,88,
+940413,Bangladesh,Zimbabwe,19-11-2015,Bangladesh,field,Jahanara Alam,,8
+946547,England,Pakistan,22-06-2016,Pakistan,field,L Winfield,212,
+946549,England,Pakistan,27-06-2016,England,bat,TT Beaumont,202,
+951305,Hong Kong,Zimbabwe,08-03-2016,Hong Kong,field,V Sibanda,14,
+951307,Afghanistan,Scotland,08-03-2016,Afghanistan,bat,Mohammad Shahzad,14,
+952189,United Arab Emirates,Netherlands,27-01-2016,Netherlands,field,,,7
+952191,United Arab Emirates,Netherlands,29-01-2016,United Arab Emirates,field,,6,
+953335,Afghanistan,Zimbabwe,25-12-2015,Afghanistan,bat,Amir Hamza,49,
+953337,Afghanistan,Zimbabwe,29-12-2015,Zimbabwe,bat,Mohammad Shahzad,,4
+953339,Afghanistan,Zimbabwe,02-01-2016,Zimbabwe,bat,H Masakadza,117,
+953341,Afghanistan,Zimbabwe,04-01-2016,Zimbabwe,bat,CJ Chibhabha,65,
+953343,Afghanistan,Zimbabwe,06-01-2016,Zimbabwe,bat,Gulbadin Naib,,2
+962017,Ireland,South Africa,11-08-2016,South Africa,bat,,,7
+966753,Bangladesh,Sri Lanka,28-02-2016,Bangladesh,bat,Sabbir Rahman,23,
+973773,Malaysia,Singapore,20-02-2016,Malaysia,field,,,6
+979819,Guernsey,Tanzania,22-05-2016,Tanzania,bat,OE Newey,,8
+979821,Nigeria,Oman,22-05-2016,Nigeria,field,AV Lalcheta,181,
+979827,Jersey,Tanzania,24-05-2016,Jersey,bat,,85,
+979829,Oman,Tanzania,25-05-2016,Oman,field,,,9
+979835,Tanzania,Vanuatu,27-05-2016,Vanuatu,bat,,,7
+979837,Jersey,Nigeria,27-05-2016,Jersey,field,B Kynman,,10
+979839,Guernsey,Oman,27-05-2016,Oman,field,Aamir Kaleem,,2
+979845,Jersey,Oman,28-05-2016,Oman,field,AW Hawkins-Kay,44,
+980931,Rising Pune Supergiants,Royal Challengers Bangalore,22-04-2016,Rising Pune Supergiants,field,AB de Villiers,13,
+980933,Delhi Daredevils,Mumbai Indians,23-04-2016,Mumbai Indians,field,SV Samson,10,
+980937,Gujarat Lions,Royal Challengers Bangalore,24-04-2016,Royal Challengers Bangalore,bat,V Kohli,,6
+980953,Sunrisers Hyderabad,Royal Challengers Bangalore,30-04-2016,Royal Challengers Bangalore,field,DA Warner,15,
+980971,Kings XI Punjab,Delhi Daredevils,07-05-2016,Delhi Daredevils,field,MP Stoinis,9,
+980975,Kolkata Knight Riders,Gujarat Lions,08-05-2016,Gujarat Lions,field,P Kumar,,5
+980977,Kings XI Punjab,Royal Challengers Bangalore,09-05-2016,Kings XI Punjab,field,SR Watson,1,
+980981,Royal Challengers Bangalore,Mumbai Indians,11-05-2016,Mumbai Indians,field,KH Pandya,,6
+980983,Sunrisers Hyderabad,Delhi Daredevils,12-05-2016,Delhi Daredevils,field,CH Morris,,7
+980995,Kolkata Knight Riders,Royal Challengers Bangalore,16-05-2016,Royal Challengers Bangalore,field,V Kohli,,9
+981017,Gujarat Lions,Sunrisers Hyderabad,27-05-2016,Sunrisers Hyderabad,field,DA Warner,,4
+995457,Sri Lanka,Australia,21-08-2016,Australia,field,JP Faulkner,,3
+995459,Sri Lanka,Australia,24-08-2016,Sri Lanka,bat,AD Mathews,82,
+995461,Sri Lanka,Australia,28-08-2016,Sri Lanka,bat,GJ Bailey,,2
+995463,Sri Lanka,Australia,31-08-2016,Sri Lanka,bat,JW Hastings,,6
+995465,Sri Lanka,Australia,01-09-2016,Sri Lanka,bat,DA Warner,,5
+997961,Ireland,Afghanistan,12-07-2016,Ireland,field,,39,
+997965,Ireland,Afghanistan,17-07-2016,Afghanistan,bat,,79,
+997967,Ireland,Afghanistan,19-07-2016,Afghanistan,field,,12,
+997993,Scotland,United Arab Emirates,14-08-2016,United Arab Emirates,field,,98,
+997995,Scotland,United Arab Emirates,16-08-2016,United Arab Emirates,bat,,,7
